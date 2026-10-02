@@ -95,12 +95,14 @@ http://198.195.239.50:8095/STAR.GOLD.HD/index.m3u8
 http://198.195.239.50:8095/SONY.MAX.HD/index.m3u8
 #EXTINF:-1 tvg-name="DISCOVERY.HD" tvg-logo="http://198.195.239.50/img/channels/DISCOVERY%20HD.png" group-title="Documentary",DISCOVERY.HD
 http://198.195.239.50:8095/DISCOVERY.HD/index.m3u8
-#EXTINF:-1 tvg-name="NATGEO.WILD.HD" tvg-logo="http://198.195.239.50/img/channels/NATGEO%20WILD%20HD.png" group-title="Documentary",NATGEO.WILD.HD
+#EXTINF:-1 tvg-name="NATGEO.WILD.Hindi" tvg-logo="http://198.195.239.50/img/channels/NATGEO%20WILD%20HD.png" group-title="Documentary",NATGEO.WILD.Hindi
 http://198.195.239.50:8095/NATGEO.WILD.HD/index.m3u8
 #EXTINF:-1 tvg-name="STAR.PLUS.HD" tvg-logo="http://198.195.239.50/img/channels/STAR%20PLUS%20HD.png" group-title="Hindi",STAR.PLUS.HD
 http://198.195.239.50:8095/STAR.PLUS.HD/index.m3u8
-#EXTINF:-1 tvg-name="NATGEO.HD" tvg-logo="http://198.195.239.50/img/channels/NATGEO%20HD.png" group-title="Documentary",NATGEO.HD
+#EXTINF:-1 tvg-name="NATGEOPlus.Eng" tvg-logo="http://198.195.239.50/img/channels/NATGEO%20HD.png" group-title="Documentary",NATGEOPlus.Eng
 http://198.195.239.50:8095/NATGEO.HD/index.m3u8
+#EXTINF:-1 tvg-name="NAT Wild English" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/250px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",NAT Wild English
+http://103.151.60.162:2122/play/a01f/index.m3u8?hls
 #EXTINF:-1 tvg-name="ANIMAL.PLANET.HD" tvg-logo="http://198.195.239.50/img/channels/ANIMAL%20PLANET%20HD.png" group-title="Documentary",ANIMAL.PLANET.HD
 http://198.195.239.50:8095/ANIMAL.PLANET.HD/index.m3u8
 #EXTINF:-1 tvg-name="STAR.MOVIES.SEL.HD" tvg-logo="http://198.195.239.50/img/channels/images__3_.png" group-title="Hindi",STAR.MOVIES.SEL.HD
@@ -255,7 +257,7 @@ http://198.195.239.50:8095/LOVE.NATURE/index.m3u8
 http://198.195.239.50:8095/GOLF.SPORTS/index.m3u8
 #EXTINF:-1 tvg-name="PK.SPORTS" tvg-logo="https://icanlive.tv/pictures/pk-sports_1783641620.jpg" group-title="Sports",PK.SPORTS
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
-#EXTINF:-1 tvg-name="GEO Kahani" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/geo-kahani.png" group-title="Pakistani",Geo Kahani
+#EXTINF:-1 tvg-name="GEO Entertainment HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Geo_TV.png" group-title="Pakistani",Geo Entertainment HD
 https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8
 #EXTINF:-1 tvg-name="Hum Sitery World" tvg-logo="http://103.151.60.190/tvlogo/hum%20stury.png" group-title="Pakistani",Hum Sitery World
 http://38.101.217.46/HumSitaray/index.m3u8
