@@ -187,17 +187,21 @@ http://198.195.239.50:8095/SOMOY.TV.HD/index.m3u8
 http://198.195.239.50:8095/ATN.BANGLA.HD/index.m3u8
 #EXTINF:-1 tvg-name="CHANNEL.I.HD" tvg-logo="http://198.195.239.50/img/channels/CHANNEL%20I.png" group-title="Bangla",CHANNEL.I.HD
 http://198.195.239.50:8095/CHANNEL.I.HD/index.m3u8
+#EXTINF:-1 tvg-name="SRK TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1779607122445.png" group-title="Bangla",SRK TV
+https://srktv.net/srktvhls/cdnlive_srktv.m3u8
 #EXTINF:-1 tvg-name="CHANNEL.24.HD" tvg-logo="http://198.195.239.50/img/channels/CHANNEL%2024.png" group-title="Bangla News",CHANNEL.24.HD
 http://198.195.239.50:8095/CHANNEL.24.HD/index.m3u8
+#EXTINF:-1 tvg-name="STAR MOVIE Select HD" tvg-logo="http://103.151.60.190/tvlogo/starmovies.png" group-title="Movies",STAR MOVIE Select HD
+http://103.151.60.162:2122/play/a02l/index.m3u8?hls
 #EXTINF:-1 tvg-name="MADANI.TV.HD" tvg-logo="http://198.195.239.50/img/channels/MADANI%20TV%20HD.png" group-title="Islamic",MADANI.TV.HD
 http://198.195.239.50:8095/MADANI.TV.HD/index.m3u8
 #EXTINF:-1 tvg-name="ENTER10.BANGLA" tvg-logo="http://198.195.239.50/img/channels/images__8_.jpg" group-title="Kolkata",ENTER10.BANGLA
 http://198.195.239.50:8095/ENTER10.BANGLA/index.m3u8
-#EXTINF:-1 tvg-name="STAR BANGLA" tvg-logo="http://103.151.60.190/tvlogo/star%20bangla.png" group-title="Kolkata Movies",STAR BANGLA
+#EXTINF:-1 tvg-name="STAR BANGLA" tvg-logo="https://pbs.twimg.com/profile_images/675064828294258688/Cw-KocM0_400x400.jpg" group-title="Kolkata Movies",STAR BANGLA
 http://103.151.60.162:2122/play/a0f5/index.m3u8?hls
 #EXTINF:-1 tvg-name="Jolsha Bangla bd" tvg-logo="http://103.151.60.190/tvlogo/jolsha%20bangla%20bd.PNG" group-title="Kolkata Movies",Jolsha Bangla bd
 http://103.151.60.162:2122/play/a02x/index.m3u8?hls
-#EXTINF:-1 tvg-name="Bangla Cenama" tvg-logo="http://103.151.60.190/tvlogo/bangla_cenama.png" group-title="Kolkata Movies",Bangla Cenama
+#EXTINF:-1 tvg-name="Bangla Cenama" tvg-logo="http://103.151.60.190/tvlogo/star%20bangla.png" group-title="Kolkata Movies",Bangla Cenama
 http://103.151.60.162:2122/play/a02m/index.m3u8?hls
 #EXTINF:-1 tvg-name="ALJAZEERA.HD" tvg-logo="http://198.195.239.50/img/channels/images__7_.png" group-title="English News",ALJAZEERA.HD
 http://198.195.239.50:8095/ALJAZEERA.HD/index.m3u8
@@ -247,3 +251,9 @@ http://198.195.239.50:8095/MUSIC.INDIA/index.m3u8
 http://198.195.239.50:8095/LOVE.NATURE/index.m3u8
 #EXTINF:-1 tvg-name="GOLF.SPORTS" tvg-logo="http://198.195.239.50/img/channels/GOLF%20SPORTS.png" group-title="Sports",GOLF.SPORTS
 http://198.195.239.50:8095/GOLF.SPORTS/index.m3u8
+#EXTINF:-1 tvg-name="GEO Kahani" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/geo-kahani.png" group-title="Pakistani",Geo Kahani
+https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8
+#EXTINF:-1 tvg-name="Hum Sitery World" tvg-logo="http://103.151.60.190/tvlogo/hum%20stury.png" group-title="Pakistani",Hum Sitery World
+http://38.101.217.46/HumSitaray/index.m3u8
+#EXTINF:-1 tvg-name="Express Entertainment HD" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Express.png" group-title="Pakistani",Express Entertainment HD
+https://s3.ideationtec.live/Express_Entertainment/Express_Entertainment.m3u8
