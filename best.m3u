@@ -59,8 +59,10 @@ http://198.195.239.50:8095/EAKHON.TV.HD/index.m3u8
 http://198.195.239.50:8095/EKATTOR.TV.HD/index.m3u8
 #EXTINF:-1 tvg-name="COLORS.HD" tvg-logo="http://198.195.239.50/img/channels/COLORS%20HD.png" group-title="Hindi",COLORS.HD
 http://198.195.239.50:8095/COLORS.HD/index.m3u8
-#EXTINF:-1 tvg-name="ANT.PICTURS.HD" tvg-logo="https://i.postimg.cc/XJ1SbVzN/20240823_022738.png" group-title="Hindi",AND.PICTURS.HD
+#EXTINF:-1 tvg-name="AND.PICTURS.HD" tvg-logo="https://i.postimg.cc/XJ1SbVzN/20240823_022738.png" group-title="Hindi",AND.PICTURS.HD
 http://198.195.239.50:8095/ANT.PICTURS.HD/index.m3u8
+#EXTINF:-1 tvg-name="Islamic TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1772728412891.png" group-title="Islamic",Islamic TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/index.m3u8
 #EXTINF:-1 tvg-name="SONY.BBC.EARTH.HD" tvg-logo="http://198.195.239.50/img/channels/SONY%20BBC%20EARTH%20HD.png" group-title="Documentary",SONY.BBC.EARTH.HD
 http://198.195.239.50:8095/SONY.BBC.EARTH.HD/index.m3u8
 #EXTINF:-1 tvg-name="ZEE.TV.HD" tvg-logo="http://198.195.239.50/img/channels/ZEE%20TV%20HD.png" group-title="Hindi",ZEE.TV.HD
@@ -258,8 +260,20 @@ https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8
 #EXTINF:-1 tvg-name="Hum Sitery World" tvg-logo="http://103.151.60.190/tvlogo/hum%20stury.png" group-title="Pakistani",Hum Sitery World
 http://38.101.217.46/HumSitaray/index.m3u8
 #EXTINF:-1 tvg-name="A Plus TV" tvg-logo="https://icanlive.tv/pictures/a-plus-tv_1788912022.png" group-title="Pakistani",A Plus TV
-https://cdn4.mjunoon.tv:8087/streamtest/118M/chunks.m3u8
+https://s3.ideationtec.live/A_Plus/A_Plus.m3u8
+#https://cdn4.mjunoon.tv:8087/streamtest/118M/chunks.m3u8
 #EXTINF:-1 tvg-name="BOL Entertainment" tvg-logo="https://icanlive.tv/pictures/bol_entertainment_1780314551.png" group-title="Pakistani",BOL Entertainment
-https://vodzong.mjunoon.tv:8087/streamtest/Channel5-159-4/playlist.m3u8
+https://s2.ideationtec.live/BOL_Entertainment_HD/BOL_Entertainment_HD.m3u8
+#https://vodzong.mjunoon.tv:8087/streamtest/Channel5-159-4/playlist.m3u8
 #EXTINF:-1 tvg-name="HUM HD" tvg-logo="https://icanlive.tv/pictures/hum-tv_1788327733.png" group-title="Pakistani",HUM HD
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
+#https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/HUM/TV2/chunks_dvr.m3u8
+#EXTINF:-1 tvg-name="HUM TV Europe" tvg-logo="https://tv.assets.pressassociation.io/d990bbef-1354-59e5-91a4-c33704d96283.png" group-title="Pakistani",HUM TV Europe
+https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8
+#EXTINF:-1 tvg-name="Aaj Entertainment" tvg-logo="https://www.aajentertainment.tv/_img/logo.png" group-title="Pakistani",Aaj Entertainment
+https://s2.ideationtec.live/AAJ_Entertainment/AAJ_Entertainment.m3u8
+#EXTINF:-1 tvg-name="AAN Entertainment HD" tvg-logo="https://aan.tv/wp-content/uploads/2026/07/aan-logo-130-hd.191cfd24989417879e8e.png" group-title="Pakistani",AAN Entertainment HD
+https://s5.ideationtec.live/AAN_HD/AAN_HD.m3u8
+#EXTINF:-1 tvg-name="AUR Life HD" tvg-logo="https://aurlife.tv/wp-content/uploads/2021/11/Aur-life-Logo-png.png" group-title="Pakistani",AUR Life HD
+https://s3.ideationtec.live/Aur_Life/Aur_Life.m3u8
+#http://124.109.47.101/hls/stream1.m3u8
