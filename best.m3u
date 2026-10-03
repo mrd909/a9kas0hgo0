@@ -8,6 +8,9 @@ http://198.195.239.50:8095/btv/index.m3u8
 http://198.195.239.50:8095/starJalsha/index.m3u8
 #EXTINF:-1 tvg-name="JALSHA MOVIES HD" tvg-logo="http://198.195.239.50/img/channels/JALSHA%20MOVIES%20HD.png" group-title="Kolkata",JALSHA MOVIES HD
 http://198.195.239.50:8095/jalshaMovies/index.m3u8
+
+#EXTINF:-1 tvg-name="Sonar Bangla" tvg-logo="https://i.postimg.cc/BbjhnQBj/sbkolkata.jpg" group-title="Kolkata",Sonar Bangla
+https://stream.ottlive.co.in/sonarbangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="ZEE BANGLA HD" tvg-logo="http://198.195.239.50/img/channels/ZEE%20BANGLA%20HD.png" group-title="Kolkata",ZEE BANGLA HD
 http://198.195.239.50:8095/zeeBangla/index.m3u8
 #EXTINF:-1 tvg-name="COLOR BANGLA HD" tvg-logo="http://198.195.239.50/img/channels/COLORS%20BANGLA%20HD.png" group-title="Kolkata",COLOR BANGLA HD
