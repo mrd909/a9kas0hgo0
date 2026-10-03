@@ -146,6 +146,7 @@ http://103.151.60.162:2122/play/a00y/index.m3u8?hls
 #EXTINF:-1 tvg-name="HIT DL" tvg-logo="http://103.151.60.190/tvlogo/hit%20dl.png" group-title="Hindi",HIT DL
 http://103.151.60.162:2122/play/a02g/index.m3u8?hls
 #EXTINF:-1 tvg-name="Hum Stury" tvg-logo="http://103.151.60.190/tvlogo/hum%20stury.png" group-title="Hindi",Hum Stury
-http://103.151.60.162:2122/play/a00u/index.m3u8?hls
+https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8
+#http://103.151.60.162:2122/play/a00u/index.m3u8?hls
 #EXTINF:-1 tvg-name="STAR Plus HD" tvg-logo="http://103.151.60.190/tvlogo/starplus.png" group-title="Hindi",STAR Plus HD
 http://103.151.60.162:2122/play/a0fo/index.m3u8?hls
