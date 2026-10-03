@@ -3,7 +3,7 @@
 http://198.195.239.50:8095/somoyTv/index.m3u8
 #EXTINF:-1 tvg-name="BTV" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png" group-title="Bangla",BTV
 http://198.195.239.50:8095/btv/index.m3u8
-#EXTINF:-1 tvg-name="Ary Digital" tvg-logo="https://live.arydigital.tv/images/AryDigitalLogo.png" group-title="Pakistan",Ary Digital
+#EXTINF:-1 tvg-name="Ary Digital" tvg-logo="https://live.arydigital.tv/images/AryDigitalLogo.png" group-title="Pakistani",Ary Digital
 https://arydigital.aryzap.com/c2582ea12d6da5245813d7545634923e/6ac2b613/v1/0183ea2408f90b8ed5941a38bc72/0183ea24302d0b8ed5941a38bc75/ARYDigitalHDh264_720p.m3u8?uuid=68d8d357-4841-43c7-9491-d514980e617d&isSubM3u8=1
 #EXTINF:-1 tvg-name="STAR JALSHA HD" tvg-logo="http://198.195.239.50/img/channels/STAR%20JALSHA%20HD.png" group-title="Kolkata",STAR JALSHA HD
 http://198.195.239.50:8095/starJalsha/index.m3u8
