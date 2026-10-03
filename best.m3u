@@ -287,14 +287,9 @@ https://s3.ideationtec.live/Aur_Life/Aur_Life.m3u8
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVHome-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDI2IDY6MzY6MDMgUE0maGFzaF92YWx1ZT04S1Zzd2VnamIvdVZPSEg1RHNpTWF3PT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 tvg-name="Green Ent HD" tvg-logo="https://i.imgur.com/iqc67UN.png" group-title="Pakistani",Green Ent HD
 https://cdn01.medialive.one:2096/GREENENTFHD/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-name="Green Ent HD1" tvg-logo="https://i.imgur.com/iqc67UN.png" group-title="Pakistani",Green Ent HD1
-https://live1.ssmmcdn.cloud:2096/GREENENTFHD/index.m3u8
-#EXTINF:-1 tvg-name="MUN HD" tvg-logo="https://i.imgur.com/iqc67UN.png" group-title="Pakistani",MUN HD
-https://live1.ssmmcdn.cloud:2096/MUNTVFHD/index.m3u8
-#EXTINF:-1 tvg-name="MUN HD2" tvg-logo="https://i.imgur.com/iqc67UN.png" group-title="Pakistani",MUN HD2
-https://myco.io/videohome/683074438dfcfbbcde5c20d6
+
 #EXTINF:-1 tvg-name="Tamasha Life HD" tvg-logo="https://i.postimg.cc/NMW0r3DX/Tamasha-Life-HD.png" group-title="Pakistani",Tamsha Life HD
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/Tamasha-Life-HD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDI2IDY6MTg6MjAgUE0maGFzaF92YWx1ZT1tZ0ZadEdMeHFtMW1JclNFcEhhdktBPT0mdmFsaWRtaW51dGVzPTYw
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/Tamasha-Life-HD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDI2IDc6NDE6NTMgUE0maGFzaF92YWx1ZT1KREc2cnBnaWYrWkZzSXNYSTlqMWlnPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 tvg-name="PlayTV HD" tvg-logo="https://i.postimg.cc/25HR1gmg/playtv-pakistan.png" group-title="Pakistani",PlayTV HD
 https://cdn05khi.tamashaweb.com:8087/jazzauth/play-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDI2IDY6NDk6NTggUE0maGFzaF92YWx1ZT02WFlQcnpxV2hjazROQUltSC9GWm5nPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 tvg-name="Kay2TV HD" tvg-logo="https://kay2.tv/wp-content/uploads/2022/04/Kay2-HD.png" group-title="Pakistani",Kay2TV HD
