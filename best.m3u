@@ -3,8 +3,7 @@
 http://198.195.239.50:8095/somoyTv/index.m3u8
 #EXTINF:-1 tvg-name="BTV" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png" group-title="Bangla",BTV
 http://198.195.239.50:8095/btv/index.m3u8
-#EXTINF:-1 tvg-name="Ary Digital" tvg-logo="https://live.arydigital.tv/images/AryDigitalLogo.png" group-title="Pakistani",Ary Digital
-https://arydigital.aryzap.com/c2582ea12d6da5245813d7545634923e/6ac2b613/v1/0183ea2408f90b8ed5941a38bc72/0183ea24302d0b8ed5941a38bc75/ARYDigitalHDh264_720p.m3u8?uuid=68d8d357-4841-43c7-9491-d514980e617d&isSubM3u8=1
+
 #EXTINF:-1 tvg-name="STAR JALSHA HD" tvg-logo="http://198.195.239.50/img/channels/STAR%20JALSHA%20HD.png" group-title="Kolkata",STAR JALSHA HD
 http://198.195.239.50:8095/starJalsha/index.m3u8
 #EXTINF:-1 tvg-name="JALSHA MOVIES HD" tvg-logo="http://198.195.239.50/img/channels/JALSHA%20MOVIES%20HD.png" group-title="Kolkata",JALSHA MOVIES HD
@@ -288,8 +287,9 @@ https://s3.ideationtec.live/Aur_Life/Aur_Life.m3u8
 #EXTINF:-1 tvg-name="PTV Home HD" tvg-logo="https://i.postimg.cc/59RBsy7s/ptv-home.png" group-title="Pakistani",PTV Home HD
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVHome-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDI2IDY6MzY6MDMgUE0maGFzaF92YWx1ZT04S1Zzd2VnamIvdVZPSEg1RHNpTWF3PT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 tvg-name="Green Ent HD" tvg-logo="https://i.imgur.com/iqc67UN.png" group-title="Pakistani",Green Ent HD
-https://cdn01.medialive.one:2096/GREENENTFHD/tracks-v2a1/mono.m3u8
-
+https://cdn4.mjunoon.tv:8087/streamtest/166M/chunks.m3u8
+#EXTINF:-1 tvg-name="Ary Digital" tvg-logo="https://i.postimg.cc/BZjPN1hd/Ary-Digital-Logo.png" group-title="Pakistani",Ary Digital
+https://cdn4.mjunoon.tv:8087/streamtest/84M/chunks.m3u8
 #EXTINF:-1 tvg-name="Tamasha Life HD" tvg-logo="https://i.postimg.cc/NMW0r3DX/Tamasha-Life-HD.png" group-title="Pakistani",Tamsha Life HD
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/Tamasha-Life-HD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDI2IDc6NDE6NTMgUE0maGFzaF92YWx1ZT1KREc2cnBnaWYrWkZzSXNYSTlqMWlnPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 tvg-name="PlayTV HD" tvg-logo="https://i.postimg.cc/25HR1gmg/playtv-pakistan.png" group-title="Pakistani",PlayTV HD
