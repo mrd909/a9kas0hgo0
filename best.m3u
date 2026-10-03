@@ -281,3 +281,5 @@ https://s5.ideationtec.live/AAN_HD/AAN_HD.m3u8
 #EXTINF:-1 tvg-name="AUR Life HD" tvg-logo="https://aurlife.tv/wp-content/uploads/2021/11/Aur-life-Logo-png.png" group-title="Pakistani",AUR Life HD
 https://s3.ideationtec.live/Aur_Life/Aur_Life.m3u8
 #http://124.109.47.101/hls/stream1.m3u8
+#EXTINF:-1 tvg-name="Green Ent HD" tvg-logo="https://i.imgur.com/iqc67UN.png" group-title="Pakistani",Green Ent HD
+https://cdn01.medialive.one:2096/GREENENTFHD/tracks-v2a1/mono.m3u8
