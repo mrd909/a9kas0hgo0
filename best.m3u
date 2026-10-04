@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="007-46-ARY News Asia" group-title="-",007-46-ARY News Asia
+http://103.169.98.53:8000/play/a0ue/index.m3u8?hls
 #EXTINF:-1 tvg-name="BTV" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png" group-title="Bangla",BTV
 http://198.195.239.50:8095/btv/index.m3u8
 #EXTINF:-1 tvg-name="BTV.HD" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png" group-title="Bangla",BTV.HD
