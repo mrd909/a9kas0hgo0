@@ -273,6 +273,8 @@ https://aryzindagim.aryzap.com/v1/01847acaa0f70b8ed5aa6ed04abe/01847acacfc30b8ed
 https://s3.ideationtec.live/LTN_Family_HD/LTN_Family_HD.m3u8
 #EXTINF:-1 tvg-name="SET HD Kahani" tvg-logo="https://i.postimg.cc/Dzd9m5LQ/set-pk.png" group-title="Pakistani",SET HD Kahani
 https://s1.ideationtec.live/SET_Ent/SET_Ent.m3u8
+#EXTINF:-1 tvg-name="097-49-Geo Kahani HD" group-title="Pakistani",097-49-Geo Kahani HD
+http://103.147.87.50:8001/play/a02v/index.m3u8?hls
 #EXTINF:-1 tvg-name="SONY-SPORTS.5HD" tvg-logo="http://198.195.239.50/img/channels/SONY%20SPORTS1%20HD.png" group-title="Sports",SONY-SPORTS.5HD
 http://198.195.239.50:8095/SONY-SPORTS.5HD/index.m3u8
 #EXTINF:-1 tvg-name="STAR.SPORTS.SEL.2.HD" tvg-logo="http://198.195.239.50/img/channels/images__1_.jpg" group-title="Sports",STAR.SPORTS.SEL.2.HD
