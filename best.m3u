@@ -270,13 +270,16 @@ https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8
 http://38.101.217.46/HumSitaray/index.m3u8
 #EXTINF:-1 tvg-name="A Plus TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/A-Plus_TV_Logo.png" group-title="Pakistani",A Plus TV
 https://s3.ideationtec.live/A_Plus/A_Plus.m3u8
-#https://cdn4.mjunoon.tv:8087/streamtest/118M/chunks.m3u8
+#EXTINF:-1 tvg-name="A Plus TV(BackUP)" tvg-logo="https://i.postimg.cc/VLy7tngG/aplus-backup.jpg" group-title="Pakistani",A Plus TV(BackUP)
+https://cdn4.mjunoon.tv:8087/streamtest/118M/chunks.m3u8
 #EXTINF:-1 tvg-name="BOL Entertainment" tvg-logo="https://i.postimg.cc/fbtSPfVR/bol-entertainment-hd.jpg" group-title="Pakistani",BOL Entertainment
 https://s2.ideationtec.live/BOL_Entertainment_HD/BOL_Entertainment_HD.m3u8
-
+#EXTINF:-1 tvg-name="LTN FAMILY HD" tvg-logo="https://i.imgur.com/n4CenYn.png" group-title="Pakistani",LTN FAMILY HD
+https://s3.ideationtec.live/LTN_Family_HD/LTN_Family_HD.m3u8
 #EXTINF:-1 tvg-name="HUM HD" tvg-logo="https://imgur.com/1qpPG9F.png" group-title="Pakistani",HUM HD
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
-
+#EXTINF:-1 tvg-name="GNN Pak News" tvg-logo="https://i.postimg.cc/5yQRVm36/gnn-pk.png" group-title="English News",GNN Pak News
+https://s5.ideationtec.live/GNN_HD/GNN_HD.m3u8
 #EXTINF:-1 tvg-name="HUM TV Europe" tvg-logo="https://imgur.com/ybR52iU.png" group-title="Pakistani",HUM TV Europe
 https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8
 #EXTINF:-1 tvg-name="Aaj Entertainment" tvg-logo="https://www.aajentertainment.tv/_img/logo.png" group-title="Pakistani",Aaj Entertainment
@@ -301,3 +304,11 @@ https://aryqtvm.aryzap.com/v1/0183ea2a0eec0b8ed5941a38bc76/0183ea2a4e470b8ed5aa4
 https://arynewsm.aryzap.com/v1/0183ea205add0b8ed5941a38bc6f/018ad63928611ea50695040da296/main.m3u8
 #EXTINF:-1 tvg-name="Ary Musik" tvg-logo="https://i.postimg.cc/NLvjx5n6/ary-music.jpg" group-title="Music",Ary Musik
 https://arymusikm.aryzap.com/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8
+#EXTINF:-1 tvg-name="LTN Family HD" tvg-logo="https://i.imgur.com/n4CenYn.png" group-title="Pakistani",LTN Family HD
+https://s3.ideationtec.live/LTN_Family_HD/LTN_Family_HD.m3u8
+#EXTINF:-1 tvg-name="Discovery Pakistan" tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png" group-title="Documentary",Discovery Pakistan
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+#EXTINF:-1 tvg-name="SET HD Kahani" tvg-logo="https://i.postimg.cc/Dzd9m5LQ/set-pk.png" group-title="Pakistani",SET HD Kahani
+https://s1.ideationtec.live/SET_Ent/SET_Ent.m3u8
+#EXTINF:-1 tvg-name="GTV Pak" tvg-logo="https://i.imgur.com/79g2kMA.png" group-title="English News",GTV Pak
+https://s4.ideationtec.live/GTV_News_HD/GTV_News_HD.m3u8
