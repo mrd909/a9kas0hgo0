@@ -45,8 +45,6 @@ http://198.195.239.50:8095/EKATTOR.TV.HD/index.m3u8
 http://198.195.239.50:8095/JAMUNA.TV/index.m3u8
 #EXTINF:-1 tvg-name="INDEPENDENT.TV" tvg-logo="http://198.195.239.50/img/channels/INDEPENDENT%20TV.png" group-title="Bangla News",INDEPENDENT.TV
 http://198.195.239.50:8095/INDEPENDENT.TV/index.m3u8
-#EXTINF:-1 tvg-name="SOMOY.TV.HD" tvg-logo="http://198.195.239.50/img/channels/SOMOY%20TV.png" group-title="Bangla News",SOMOY.TV.HD
-http://198.195.239.50:8095/SOMOY.TV.HD/index.m3u8
 #EXTINF:-1 tvg-name="CHANNEL.24.HD" tvg-logo="http://198.195.239.50/img/channels/CHANNEL%2024.png" group-title="Bangla News",CHANNEL.24.HD
 http://198.195.239.50:8095/CHANNEL.24.HD/index.m3u8
 #EXTINF:-1 tvg-name="ATN.NEWS.HD" tvg-logo="http://198.195.239.50/img/channels/ATN%20NEWS.png" group-title="Bangla News",ATN.NEWS.HD
@@ -158,10 +156,7 @@ http://198.195.239.50:8095/MOVIES.NOW.HD/index.m3u8
 http://198.195.239.50:8095/AND.PRIVE.HD/index.m3u8
 #EXTINF:-1 tvg-name="STAR.BHARAT.HD" tvg-logo="http://198.195.239.50/img/channels/STAR%20BHARAT%20HD.png" group-title="Hindi",STAR.BHARAT.HD
 http://198.195.239.50:8095/STAR.BHARAT.HD/index.m3u8
-#EXTINF:-1 tvg-name="UNITE8.2.HD" tvg-logo="http://198.195.239.50/img/channels/images__9_.png" group-title="Hindi",UNITE8.2.HD
-http://198.195.239.50:8095/UNITE8.2.HD/index.m3u8
-#EXTINF:-1 tvg-name="UNITE8.1.HD" tvg-logo="http://198.195.239.50/img/channels/images__11_.jpg" group-title="Hindi",UNITE8.1.HD
-http://198.195.239.50:8095/UNITE8.1.HD/index.m3u8
+
 
 ==================== Islamic ====================
 
@@ -366,6 +361,8 @@ http://198.195.239.50:8095/EUROSPORTS.HD/index.m3u8
 http://198.195.239.50:8095/T-SPORTS-HD/index.m3u8
 #EXTINF:-1 tvg-name="SONY.SPORTS.4" tvg-logo="http://198.195.239.50/img/channels/SONY%20SPORTS4%20HD.png" group-title="Sports",SONY.SPORTS.4
 http://198.195.239.50:8095/SONY.SPORTS.4/index.m3u8
+#EXTINF:-1 tvg-name="WWE 24hr TV" tvg-logo="https://i.postimg.cc/MTCXGsXJ/wwe.png" group-title="Sports",WWE 24hr TV
+http://103.114.11.37:8081/WWE-24/7/index.m3u8?token=dsgdfgsdfgasf
 #EXTINF:-1 tvg-name="SONY.SPORTS.1HD" tvg-logo="http://198.195.239.50/img/channels/images__6_.jpg" group-title="Sports",SONY.SPORTS.1HD
 http://198.195.239.50:8095/SONY.SPORTS.1HD/index.m3u8
 #EXTINF:-1 tvg-name="FAST.SPORTS.HD" tvg-logo="http://198.195.239.50/img/channels/FAST%20SPORTS%20HD.png" group-title="Sports",FAST.SPORTS.HD
@@ -377,6 +374,8 @@ http://198.195.239.50:8095/PTV-SPORTS-HD/index.m3u8
 #EXTINF:-1 tvg-name="Ten Sports Cricket HD" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/ten-ckt-logo.png" group-title="Sports",Ten Sports Cricket HD
 #EXTVLCOPT:http-referrer=https://toffeelive.com/
 https://media.hmair.xyz/api/play/Sony%20Ten%20Cricket.m3u8
+#EXTINF:-1 tvg-name="TEN-SPORTS-HD" tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="Sports",TEN-SPORTS-HD
+http://103.114.11.37:8081/TEN-SPORTS/index.m3u8?token=dsgdfgsdfgasf
 #EXTINF:-1 tvg-name="Ten Sports Cricket" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/ten-ckt-logo.png" group-title="Sports",Ten Sports Cricket
 https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-name="STAR.SPORTS.4K" tvg-logo="http://198.195.239.50/img/channels/STAR%204K.png" group-title="Sports",STAR.SPORTS.4K
@@ -387,4 +386,7 @@ http://198.195.239.50:8095/GOLF.SPORTS/index.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 #EXTINF:-1 tvg-name="GEO Super" tvg-logo="https://crystalpng.com/wp-content/uploads/2025/04/geo-super-logo.png" group-title="Sports",GEO Super
 http://103.147.87.50:8001/play/a02w/index.m3u8?hls
-
+#EXTINF:-1 tvg-name="UNITE8.1.HD" tvg-logo="http://198.195.239.50/img/channels/images__11_.jpg" group-title="Sports",UNITE8.1.HD
+http://198.195.239.50:8095/UNITE8.1.HD/index.m3u8
+#EXTINF:-1 tvg-name="UNITE8.2.HD" tvg-logo="http://198.195.239.50/img/channels/images__9_.png" group-title="Sports",UNITE8.2.HD
+http://198.195.239.50:8095/UNITE8.2.HD/index.m3u8
