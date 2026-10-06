@@ -1,5 +1,7 @@
 #EXTM3U
 
+==================== Bangla ====================
+
 #EXTINF:-1 tvg-name="BTV" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png" group-title="Bangla",BTV
 http://198.195.239.50:8095/btv/index.m3u8
 #EXTINF:-1 tvg-name="BTV.HD" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png" group-title="Bangla",BTV.HD
@@ -23,6 +25,8 @@ http://198.195.239.50:8095/CHANNEL.I.HD/index.m3u8
 #EXTINF:-1 tvg-name="SRK TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1779607122445.png" group-title="Bangla",SRK TV
 https://srktv.net/srktvhls/cdnlive_srktv.m3u8
 
+==================== Bangl News ====================
+
 #EXTINF:-1 tvg-name="SOMOY TV HD" tvg-logo="http://198.195.239.50/img/channels/SOMOY%20TV.png" group-title="Bangla News",SOMOY TV HD
 http://198.195.239.50:8095/somoyTv/index.m3u8
 #EXTINF:-1 tvg-name="DBC.NEWS.HD" tvg-logo="http://198.195.239.50/img/channels/DBC%20NEWS.png" group-title="Bangla News",DBC.NEWS.HD
@@ -44,6 +48,8 @@ http://198.195.239.50:8095/ATN.NEWS.HD/index.m3u8
 #EXTINF:-1 tvg-name="NEWS.24" tvg-logo="http://198.195.239.50/img/channels/images__10_.jpg" group-title="Bangla News",NEWS.24 BD
 http://198.195.239.50:8095/NEWS.24/index.m3u8
 
+==================== Bangla Cinema ====================
+
 #EXTINF:-1 tvg-name="JALSHA.MOVIES.HD" tvg-logo="http://198.195.239.50/img/channels/JALSHA%20MOVIES%20HD.png" group-title="Bangla Cinema",JALSHA.MOVIES.HD
 http://198.195.239.50:8095/JALSHA.MOVIES.HD/index.m3u8
 #EXTINF:-1 tvg-name="COLORS.BANGLA.CINEMA" tvg-logo="http://198.195.239.50/img/channels/COLORS%20BANGLA%20CINEMA.png" group-title="Bangla Cinema",COLORS.BANGLA.CINEMA
@@ -55,44 +61,42 @@ http://103.151.60.162:2122/play/a02x/index.m3u8?hls
 #EXTINF:-1 tvg-name="Bangla Movie TV" tvg-logo="http://103.151.60.190/tvlogo/star%20bangla.png" group-title="Bangla Cinema",Bangla Movie TV
 http://103.151.60.162:2122/play/a02m/index.m3u8?hls
 
-#EXTINF:-1 tvg-name="DISCOVERY HD" tvg-logo="http://198.195.239.50/img/channels/DISCOVERY%20HD.png" group-title="Documentary",DISCOVERY HD
+==================== Documentary & Nature ====================
+
+#EXTINF:-1 tvg-name="DISCOVERY HD" tvg-logo="http://198.195.239.50/img/channels/DISCOVERY%20HD.png" group-title="Documentary & Nature",DISCOVERY HD
 http://198.195.239.50:8095/discovery/index.m3u8
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://198.195.239.50/img/channels/NATGEO%20HD.png" group-title="Documentary",NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://198.195.239.50/img/channels/NATGEO%20HD.png" group-title="Documentary & Nature",NATIONAL GEOGRAPHIC HD
 http://198.195.239.50:8095/nationalGeographic/index.m3u8
-#EXTINF:-1 tvg-name="ANIMAL PLANET HD" tvg-logo="http://198.195.239.50/img/channels/ANIMAL%20PLANET%20HD.png" group-title="Documentary",ANIMAL PLANET HD
+#EXTINF:-1 tvg-name="ANIMAL PLANET HD" tvg-logo="http://198.195.239.50/img/channels/ANIMAL%20PLANET%20HD.png" group-title="Documentary & Nature",ANIMAL PLANET HD
 http://198.195.239.50:8095/animalPlanet/index.m3u8
-#EXTINF:-1 tvg-name="TRAVEL XP" tvg-logo="http://198.195.239.50/img/channels/TRAVEL%20XP.png" group-title="Documentary",TRAVEL XP
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
-#http://198.195.239.50:8095/travelXp/index.m3u8
-#EXTINF:-1 tvg-name="SONY.BBC.EARTH.HD" tvg-logo="http://198.195.239.50/img/channels/SONY%20BBC%20EARTH%20HD.png" group-title="Documentary",SONY.BBC.EARTH.HD
+#EXTINF:-1 tvg-name="BBC.EARTH.HD" tvg-logo="http://198.195.239.50/img/channels/SONY%20BBC%20EARTH%20HD.png" group-title="Documentary & Nature",BBC.EARTH.HD
 http://198.195.239.50:8095/SONY.BBC.EARTH.HD/index.m3u8
-#EXTINF:-1 tvg-name="TLC.HD" tvg-logo="http://198.195.239.50/img/channels/TLC%20HD.png" group-title="Documentary",TLC.HD
-http://198.195.239.50:8095/TLC.HD/index.m3u8
-#EXTINF:-1 tvg-name="HISTORY.TV.18.HD" tvg-logo="http://198.195.239.50/img/channels/HISTORY%20TV%20HD.png" group-title="Documentary",HISTORY.TV.18.HD
+#EXTINF:-1 tvg-name="HISTORY.TV.18.HD" tvg-logo="http://198.195.239.50/img/channels/HISTORY%20TV%20HD.png" group-title="Documentary & Nature",HISTORY.TV.18.HD
 http://198.195.239.50:8095/HISTORY.TV.18.HD/index.m3u8
-#EXTINF:-1 tvg-name="DISCOVERY.HD" tvg-logo="http://198.195.239.50/img/channels/DISCOVERY%20HD.png" group-title="Documentary",DISCOVERY.HD
+#EXTINF:-1 tvg-name="DISCOVERY.HD" tvg-logo="http://198.195.239.50/img/channels/DISCOVERY%20HD.png" group-title="Documentary & Nature",DISCOVERY.HD
 http://198.195.239.50:8095/DISCOVERY.HD/index.m3u8
-#EXTINF:-1 tvg-name="NATGEO.WILD.Hindi" tvg-logo="http://198.195.239.50/img/channels/NATGEO%20WILD%20HD.png" group-title="Documentary",NATGEO.WILD.Hindi
+#EXTINF:-1 tvg-name="NATGEO.WILD.Hindi" tvg-logo="http://198.195.239.50/img/channels/NATGEO%20WILD%20HD.png" group-title="Documentary & Nature",NATGEO.WILD.Hindi
 http://198.195.239.50:8095/NATGEO.WILD.HD/index.m3u8
-#EXTINF:-1 tvg-name="NATGEOPlus.Eng" tvg-logo="http://198.195.239.50/img/channels/NATGEO%20HD.png" group-title="Documentary",NATGEOPlus.Eng
+#EXTINF:-1 tvg-name="NATGEOPlus.Eng" tvg-logo="http://198.195.239.50/img/channels/NATGEO%20HD.png" group-title="Documentary & Nature",NATGEOPlus.Eng
 http://198.195.239.50:8095/NATGEO.HD/index.m3u8
-#EXTINF:-1 tvg-name="NAT Wild English" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/250px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",NAT Wild English
+#EXTINF:-1 tvg-name="NAT Wild English" tvg-logo="https://i.postimg.cc/kXFK21BQ/ngo.png" group-title="Documentary",NAT Wild English
 http://103.151.60.162:2122/play/a01f/index.m3u8?hls
-#EXTINF:-1 tvg-name="ANIMAL.PLANET.HD" tvg-logo="http://198.195.239.50/img/channels/ANIMAL%20PLANET%20HD.png" group-title="Documentary",ANIMAL.PLANET.HD
+#EXTINF:-1 tvg-name="ANIMAL.PLANET.HD" tvg-logo="http://198.195.239.50/img/channels/ANIMAL%20PLANET%20HD.png" group-title="Documentary & Nature",ANIMAL.PLANET.HD
 http://198.195.239.50:8095/ANIMAL.PLANET.HD/index.m3u8
-#EXTINF:-1 tvg-name="XPLOR.HD" tvg-logo="http://198.195.239.50/img/channels/images__5_.jpg" group-title="Documentary",XPLOR.HD
-http://198.195.239.50:8095/XPLOR.HD/index.m3u8
-#EXTINF:-1 tvg-name="TRAVELXP.HD" tvg-logo="http://198.195.239.50/img/channels/images__6_.png" group-title="Documentary",TRAVELXP.HD
-http://198.195.239.50:8095/TRAVELXP.HD/index.m3u8
-#EXTINF:-1 tvg-name="BBC.Earth.HD" tvg-logo="http://198.195.239.50/img/channels/BBC%20EARTH%20HD.png" group-title="Documentary",BBC.Earth.HD
+#EXTINF:-1 tvg-name="BBC.Earth.HD" tvg-logo="http://198.195.239.50/img/channels/BBC%20EARTH%20HD.png" group-title="Documentary & Nature",BBC.Earth.HD
 http://198.195.239.50:8095/BBC.Earth.HD/index.m3u8
-#EXTINF:-1 tvg-name="LOVE.NATURE" tvg-logo="http://198.195.239.50/img/channels/LOVE%20NATURE.png" group-title="Documentary",LOVE.NATURE
+#EXTINF:-1 tvg-name="LOVE.NATURE" tvg-logo="http://198.195.239.50/img/channels/LOVE%20NATURE.png" group-title="Documentary & Nature",LOVE.NATURE
 http://198.195.239.50:8095/LOVE.NATURE/index.m3u8
-#EXTINF:-1 tvg-name="Discovery Pakistan" tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png" group-title="Documentary",Discovery Pakistan
+#EXTINF:-1 tvg-name="Discovery Pakistan" tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png" group-title="Documentary & Nature",Discovery Pakistan
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Alief TV" tvg-logo="https://i.postimg.cc/YSdRSqtV/ptv-world.jpg" group-title="Education",Alief TV
+
+==================== Education ====================
+
+#EXTINF:-1 tvg-name="Alief TV" tvg-logo="https://i.postimg.cc/3RgwBWWm/alief-pak.jpg" group-title="Education",Alief TV
 http://103.147.87.50:8001/play/a02p/index.m3u8?hls
+
+==================== English News ====================
 
 #EXTINF:-1 tvg-name="ALJAZEERA.HD" tvg-logo="http://198.195.239.50/img/channels/images__7_.png" group-title="English News",ALJAZEERA.HD
 http://198.195.239.50:8095/ALJAZEERA.HD/index.m3u8
@@ -102,12 +106,15 @@ http://198.195.239.50:8095/DW.NEWS.HD/index.m3u8
 http://198.195.239.50:8095/BBC.NEWS/index.m3u8
 #EXTINF:-1 tvg-name="GNN Pak News" tvg-logo="https://i.postimg.cc/5yQRVm36/gnn-pk.png" group-title="English News",GNN Pak News
 https://s5.ideationtec.live/GNN_HD/GNN_HD.m3u8
-#EXTINF:-1 tvg-name="Ary NEWS HD" tvg-logo="https://i.postimg.cc/BZjPN1hd/Ary-Digital-Logo.png" group-title="English News",Ary NEWS HD
+#EXTINF:-1 tvg-name="Ary NEWS HD" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/ary-news.png" group-title="English News",Ary NEWS HD
 https://arynewsm.aryzap.com/v1/0183ea205add0b8ed5941a38bc6f/018ad63928611ea50695040da296/main.m3u8
 #EXTINF:-1 tvg-name="PTV World" tvg-logo="https://i.postimg.cc/YSdRSqtV/ptv-world.jpg" group-title="Pakistani",PTV World
 http://103.147.87.50:8001/play/a00x/index.m3u8?hls
-#EXTINF:-1 tvg-name="GTV Pak" tvg-logo="https://i.imgur.com/79g2kMA.png" group-title="English News",GTV Pak
+#EXTINF:-1 tvg-name="GTV Pak" tvg-logo="https://i.postimg.cc/bwf7Yv4G/gtvpak.jpg" group-title="English News",GTV Pak
 https://s4.ideationtec.live/GTV_News_HD/GTV_News_HD.m3u8
+
+==================== Hindi ====================
+
 
 #EXTINF:-1 tvg-name="COLORS.HD" tvg-logo="http://198.195.239.50/img/channels/COLORS%20HD.png" group-title="Hindi",COLORS.HD
 http://198.195.239.50:8095/COLORS.HD/index.m3u8
@@ -150,6 +157,8 @@ http://198.195.239.50:8095/UNITE8.2.HD/index.m3u8
 #EXTINF:-1 tvg-name="UNITE8.1.HD" tvg-logo="http://198.195.239.50/img/channels/images__11_.jpg" group-title="Hindi",UNITE8.1.HD
 http://198.195.239.50:8095/UNITE8.1.HD/index.m3u8
 
+==================== Islamic ====================
+
 #EXTINF:-1 tvg-name="Islamic TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1772728412891.png" group-title="Islamic",Islamic TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/index.m3u8
 #https://drk6xq0vhn.gpcdn.net/live/islamic_tv/chunks.m3u8
@@ -159,6 +168,8 @@ http://198.195.239.50:8095/MADANI.TV.HD/index.m3u8
 http://198.195.239.50:8095/PEACE.TV.BANGLA.HD/index.m3u8
 #EXTINF:-1 tvg-name="Ary QTV" tvg-logo="https://i.postimg.cc/hth9YYZx/ary-qtv.jpg" group-title="Islamic",Ary QTV
 https://aryqtvm.aryzap.com/v1/0183ea2a0eec0b8ed5941a38bc76/0183ea2a4e470b8ed5aa4d793457/ARYQTVH264_1080p.m3u8
+
+==================== Kids ====================
 
 #EXTINF:-1 tvg-name="CARTOON NETWORK HD" tvg-logo="http://198.195.239.50/img/channels/CARTOON%20NETWORK.png" group-title="Kids",CARTOON NETWORK HD
 http://198.195.239.50:8095/cartoonNetwork/index.m3u8
@@ -195,6 +206,8 @@ http://198.195.239.50:8095/SUPER.HUNGAMA/index.m3u8
 #EXTINF:-1 tvg-name="SONY.YAY" tvg-logo="http://198.195.239.50/img/channels/SONY%20YAY.png" group-title="Kids",SONY.YAY
 http://198.195.239.50:8095/SONY.YAY/index.m3u8
 
+==================== Kolkata Bangla ====================
+
 #EXTINF:-1 tvg-name="STAR JALSHA HD" tvg-logo="http://198.195.239.50/img/channels/STAR%20JALSHA%20HD.png" group-title="Kolkata",STAR JALSHA HD
 http://198.195.239.50:8095/starJalsha/index.m3u8
 #EXTINF:-1 tvg-name="JALSHA MOVIES HD" tvg-logo="http://198.195.239.50/img/channels/JALSHA%20MOVIES%20HD.png" group-title="Kolkata",JALSHA MOVIES HD
@@ -226,12 +239,34 @@ http://198.195.239.50:8095/SONY.AAT/index.m3u8
 #EXTINF:-1 tvg-name="ENTER10.BANGLA" tvg-logo="http://198.195.239.50/img/channels/images__8_.jpg" group-title="Kolkata",ENTER10.BANGLA
 http://198.195.239.50:8095/ENTER10.BANGLA/index.m3u8
 
+==================== Lifestyle & Travel ====================
+#EXTINF:-1 tvg-name="TRAVEL XP English" tvg-logo="http://198.195.239.50/img/channels/TRAVEL%20XP.png" group-title="Lifestyle & Travel",TRAVEL XP English
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="TLC.HD" tvg-logo="http://198.195.239.50/img/channels/TLC%20HD.png" group-title="Lifestyle & Travel",TLC.HD
+http://198.195.239.50:8095/TLC.HD/index.m3u8
+#EXTINF:-1 tvg-name="TXP Story" tvg-logo="https://i.postimg.cc/phzHww9v/txn.jpg" group-title="Lifestyle & Travel",TXP Story
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="XPLOR.HD" tvg-logo="http://198.195.239.50/img/channels/images__5_.jpg" group-title="Lifestyle & Travel",XPLOR.HD
+http://198.195.239.50:8095/XPLOR.HD/index.m3u8
+#EXTINF:-1 tvg-name="TRAVELXP.HD" tvg-logo="http://198.195.239.50/img/channels/images__6_.png" group-title="Lifestyle & Travel",TRAVELXP.HD
+http://198.195.239.50:8095/TRAVELXP.HD/index.m3u8
+
+
+==================== Movies ====================
+
+
 #EXTINF:-1 tvg-name="STAR MOVIE Select HD" tvg-logo="http://103.151.60.190/tvlogo/starmovies.png" group-title="Movies",STAR MOVIE Select HD
 http://103.151.60.162:2122/play/a02l/index.m3u8?hls
 #EXTINF:-1 tvg-name="Lotus.TV.HD" tvg-logo="http://198.195.239.50/img/channels/LOTUS%20TV.png" group-title="Movies",Lotus.TV.HD
 http://198.195.239.50:8095/Lotus.TV.HD/index.m3u8
 #EXTINF:-1 tvg-name="AXN.HD" tvg-logo="http://198.195.239.50/img/channels/AXN%20HD.png" group-title="Movies",AXN.HD
 http://198.195.239.50:8095/AXN.HD/index.m3u8
+#EXTINF:-1 tvg-name="HBO Family SD" tvg-logo="https://iili.io/Ju79otR.png" group-title="Movies",HBO Family SD
+http://tv.cloudcdn.me:80/live.ts?channelId=49858&uid=12481&deviceMac=00:1A:79:6C:28:A1
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://iili.io/Ju79IMN.png" group-title="Movies",HBO Signature
+http://103.151.60.162:2122/play/a02g/index.m3u8?hls
+
+==================== Music ====================
 
 #EXTINF:-1 tvg-name="SANGEET BANGLA" tvg-logo="http://198.195.239.50/img/channels/SANGEET%20BANGLA.png" group-title="Music",SANGEET BANGLA
 http://198.195.239.50:8095/sangeetBangla/index.m3u8
@@ -249,6 +284,8 @@ http://198.195.239.50:8095/MTV.INDIA/index.m3u8
 http://198.195.239.50:8095/MUSIC.INDIA/index.m3u8
 #EXTINF:-1 tvg-name="Ary Musik" tvg-logo="https://i.postimg.cc/NLvjx5n6/ary-music.jpg" group-title="Music",Ary Musik
 https://arymusikm.aryzap.com/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8
+
+==================== Pakistani ====================
 
 #EXTINF:-1 tvg-name="HUM.MASALA.TV" tvg-logo="http://198.195.239.50/img/channels/images__9_.jpg" group-title="Pakistani",HUM.MASALA.TV
 http://198.195.239.50:8095/HUM.MASALA.TV/index.m3u8
@@ -299,6 +336,8 @@ http://103.147.87.50:8001/play/a00q/index.m3u8?hls
 #EXTINF:-1 tvg-name="PTV Global HD" tvg-logo="https://i.postimg.cc/CKsGRrJg/ptv-global.jpg" group-title="Pakistani",PTV Global HD
 http://103.147.87.50:8001/play/a00w/index.m3u8?hls
 
+==================== Sports ====================
+
 #EXTINF:-1 tvg-name="SONY-SPORTS.5HD" tvg-logo="http://198.195.239.50/img/channels/SONY%20SPORTS1%20HD.png" group-title="Sports",SONY-SPORTS.5HD
 http://198.195.239.50:8095/SONY-SPORTS.5HD/index.m3u8
 #EXTINF:-1 tvg-name="STAR.SPORTS.SEL.2.HD" tvg-logo="http://198.195.239.50/img/channels/images__1_.jpg" group-title="Sports",STAR.SPORTS.SEL.2.HD
@@ -329,6 +368,11 @@ http://198.195.239.50:8095/FAST.SPORTS.HD/index.m3u8
 http://198.195.239.50:8095/A.SPORTS.HD/index.m3u8
 #EXTINF:-1 tvg-name="PTV-SPORTS-HD" tvg-logo="http://198.195.239.50/img/channels/PTV%20SPORTS%20HD.png" group-title="Sports",PTV-SPORTS-HD
 http://198.195.239.50:8095/PTV-SPORTS-HD/index.m3u8
+#EXTINF:-1 tvg-name="Ten Sports Cricket HD" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/ten-ckt-logo.png" group-title="Sports",Ten Sports Cricket HD
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://media.hmair.xyz/api/play/Sony%20Ten%20Cricket.m3u8
+#EXTINF:-1 tvg-name="Ten Sports Cricket" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/ten-ckt-logo.png" group-title="Sports",Ten Sports Cricket
+https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-name="STAR.SPORTS.4K" tvg-logo="http://198.195.239.50/img/channels/STAR%204K.png" group-title="Sports",STAR.SPORTS.4K
 http://198.195.239.50:8095/STAR.SPORTS.4K/index.m3u8
 #EXTINF:-1 tvg-name="GOLF.SPORTS" tvg-logo="http://198.195.239.50/img/channels/GOLF%20SPORTS.png" group-title="Sports",GOLF.SPORTS
