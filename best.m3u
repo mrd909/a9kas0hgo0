@@ -24,7 +24,12 @@ http://198.195.239.50:8095/ATN.BANGLA.HD/index.m3u8
 http://198.195.239.50:8095/CHANNEL.I.HD/index.m3u8
 #EXTINF:-1 tvg-name="SRK TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1779607122445.png" group-title="Bangla",SRK TV
 https://srktv.net/srktvhls/cdnlive_srktv.m3u8
-#EXTINF:-1 tvg-name="Songsod BTV" tvg-logo="https://i.postimg.cc/gkqbwMrD/songsod.png" group-title="Bangla",Songsod BTV
+#EXTINF:-1 tvg-name="News21 Bangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/11/news21.jpg" group-title="Bangla",News21 Bangla
+http://103.190.133.68:1935/news21live/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Rajdhani TV" tvg-logo="https://i.postimg.cc/xTtJv3ZS/rajdhanitv.jpg" group-title="Bangla",Rajdhani TV
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+
+#EXTINF:-1 tvg-name="Songsod TV" tvg-logo="https://i.postimg.cc/gkqbwMrD/songsod.png" group-title="Bangla",Songsod TV
 https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL2xpdmUuYnR2bGl2ZS5nb3YuYmQvbGl2ZS9iZjczZDllMS1mODI2LTQzMDYtOTBkNC0xZDhlNGQ4NzRkYjEvQkQvOWVlM2I0ZjktZmQwYS00N2M1LWExMzUtMjU3NWM1NjkxNjEzL2luZGV4Lm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly93d3cuYnR2bGl2ZS5nb3YuYmQvY2hhbm5lbC9CVFYiLCJjaGFubmVsIjoiTGl2ZSAzIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJjb29raWUiOiJ1bmlxdWVJZD1iZjczZDllMS1mODI2LTQzMDYtOTBkNC0xZDhlNGQ4NzRkYjE7IE1heC1BZ2U9ODY0MDA7IFBhdGg9LzsgSHR0cE9ubHk7IFNhbWVTaXRlPVN0cmljdCIsInJlZmVyZXIiOiJodHRwczovL3d3dy5idHZsaXZlLmdvdi5iZC9jaGFubmVsL0JUViJ9fQ.m3u8
 
 
@@ -51,6 +56,8 @@ http://198.195.239.50:8095/CHANNEL.24.HD/index.m3u8
 http://198.195.239.50:8095/ATN.NEWS.HD/index.m3u8
 #EXTINF:-1 tvg-name="NEWS.24" tvg-logo="http://198.195.239.50/img/channels/images__10_.jpg" group-title="Bangla News",NEWS.24 BD
 http://198.195.239.50:8095/NEWS.24/index.m3u8
+#EXTINF:-1 tvg-name="Jago NEWS 24" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/pran-RFL.png" group-title="Bangla News",Jago NEWS 24
+https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 
 ==================== Bangla Cinema ====================
 
