@@ -304,7 +304,7 @@ https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e
 #EXTINF:-1 tvg-name="GEO Kahani SD" tvg-logo="https://geokahani.tv/wp-content/uploads/2014/12/Geo_Kahani_Logo2.png" group-title="Pakistani",GEO Kahani SD
 http://103.147.87.50:8001/play/a02v/index.m3u8?hls
 #EXTINF:-1 tvg-name="GEO Kahani HD" tvg-logo="https://geokahani.tv/wp-content/uploads/2014/12/Geo_Kahani_Logo2.png" group-title="Pakistani",GEO Kahani HD
-http://175.107.244.52:4456/play/a06i/GEOKAHANIH264_240p.m3u8?isSubM3U8=1
+http://175.107.244.52:4456/play/a06i/index.m3u8?hls
 #EXTINF:-1 tvg-name="Hum Sitaray World" tvg-logo="https://i.imgur.com/3szQDQi.png" group-title="Pakistani",Hum Sitaray World
 http://38.101.217.46/HumSitaray/index.m3u8
 #EXTINF:-1 tvg-name="A Plus TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/A-Plus_TV_Logo.png" group-title="Pakistani",A Plus TV SD
