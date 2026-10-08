@@ -170,8 +170,10 @@ http://198.195.239.50:8095/STAR.BHARAT.HD/index.m3u8
 #EXTINF:-1 tvg-name="Islamic TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1772728412891.png" group-title="Islamic",Islamic TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/index.m3u8
 #https://drk6xq0vhn.gpcdn.net/live/islamic_tv/chunks.m3u8
-#EXTINF:-1 tvg-name="MADANI.TV.HD" tvg-logo="http://198.195.239.50/img/channels/MADANI%20TV%20HD.png" group-title="Islamic",MADANI.TV.HD
+#EXTINF:-1 tvg-name="MADANI TV Bangla" tvg-logo="http://198.195.239.50/img/channels/MADANI%20TV%20HD.png" group-title="Islamic",MADANI TV Bangla
 http://198.195.239.50:8095/MADANI.TV.HD/index.m3u8
+#EXTINF:-1 tvg-name="MADANI TV English" tvg-logo="https://i.postimg.cc/9MvBwqf5/images.png" group-title="Islamic",MADANI TV English
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8https://i.postimg.cc/9MvBwqf5/images.png
 #EXTINF:-1 tvg-name="PEACE.TV.BANGLA.HD" tvg-logo="http://198.195.239.50/img/channels/PEACE%20TV%20BANGLA.png" group-title="Islamic",PEACE.TV.BANGLA.HD
 http://198.195.239.50:8095/PEACE.TV.BANGLA.HD/index.m3u8
 #EXTINF:-1 tvg-name="Ary QTV" tvg-logo="https://i.postimg.cc/hth9YYZx/ary-qtv.jpg" group-title="Islamic",Ary QTV
@@ -292,6 +294,8 @@ http://198.195.239.50:8095/MTV.INDIA/index.m3u8
 http://198.195.239.50:8095/MUSIC.INDIA/index.m3u8
 #EXTINF:-1 tvg-name="Ary Musik" tvg-logo="https://i.postimg.cc/NLvjx5n6/ary-music.jpg" group-title="Music",Ary Musik
 https://arymusikm.aryzap.com/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8
+#EXTINF:-1 tvg-name="Jalwa TV Pak" tvg-logo="https://imgur.com/HWb5Iat.png" group-title="Music",Jalwa TV Pak
+https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/live/135M/chunks.m3u8
 
 ==================== Pakistani ====================
 
@@ -326,14 +330,14 @@ https://s2.ideationtec.live/AAJ_Entertainment/AAJ_Entertainment.m3u8
 #EXTINF:-1 tvg-name="AAN Entertainment HD" tvg-logo="https://aan.tv/wp-content/uploads/2026/07/aan-logo-130-hd.191cfd24989417879e8e.png" group-title="Pakistani",AAN Entertainment HD
 https://s5.ideationtec.live/AAN_HD/AAN_HD.m3u8
 #EXTINF:-1 tvg-name="AUR Life HD" tvg-logo="https://aurlife.tv/wp-content/uploads/2021/11/Aur-life-Logo-png.png" group-title="Pakistani",AUR Life HD
-https://s3.ideationtec.live/Aur_Life/Aur_Life.m3u8
+http://124.109.47.101/hls/stream1.m3u8
 #EXTINF:-1 tvg-name="Express Entertainment" tvg-logo="https://www.expressentertainment.tv/wp-content/uploads/2024/05/cropped-logo-HD.png" group-title="Pakistani",Express Entertainment
 https://s3.ideationtec.live/Express_Entertainment/Express_Entertainment.m3u8
 #EXTINF:-1  tvg-name="SAB ENTERTAINMENT" tvg-logo="https://sabtv.pk/wp-content/uploads/2024/10/cropped-logoFinal_-Lowres.png" group-title="Pakistani",SAB ENTERTAINMENT
 https://s1.ideationtec.live/SAB_Entertainment/SAB_Entertainment.m3u8
 #EXTINF:-1 tvg-name="Green Entertainment" tvg-logo="https://i.imgur.com/iqc67UN.png" group-title="Pakistani",Green Entertainment
 https://cdn4.mjunoon.tv:8087/streamtest/166M/chunks.m3u8
-#EXTINF:-1 tvg-name="Ary Digital" tvg-logo="https://i.postimg.cc/BZjPN1hd/Ary-Digital-Logo.png" group-title="Pakistani",Ary Digital
+#EXTINF:-1 tvg-name="Ary Digital HD" tvg-logo="https://i.postimg.cc/BZjPN1hd/Ary-Digital-Logo.png" group-title="Pakistani",Ary Digital HD
 https://arydigitalm.aryzap.com/v1/0183ea2408f90b8ed5941a38bc72/0183ea24302d0b8ed5941a38bc75/main.m3u8
 #EXTINF:-1 tvg-name="Ary Zindagi" tvg-logo="https://i.postimg.cc/wTXPv19F/ary-zingadi.jpg" group-title="Pakistani",Ary Zindagi
 https://aryzindagim.aryzap.com/v1/01847acaa0f70b8ed5aa6ed04abe/01847acacfc30b8ed5aa6ed04ac1/ARYZindagiH264_1080p.m3u8
