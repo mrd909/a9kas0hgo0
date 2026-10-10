@@ -123,6 +123,8 @@ https://arynewsm.aryzap.com/v1/0183ea205add0b8ed5941a38bc6f/018ad63928611ea50695
 http://103.147.87.50:8001/play/a00x/index.m3u8?hls
 #EXTINF:-1 tvg-name="GTV Pak" tvg-logo="https://i.postimg.cc/bwf7Yv4G/gtvpak.jpg" group-title="English News",GTV Pak
 https://s4.ideationtec.live/GTV_News_HD/GTV_News_HD.m3u8
+#EXTINF:-1 tvg-name="M-NEWS Pak" tvg-logo="https://mnews.pk/wp-content/uploads/2025/10/mnews-logo-news.png" group-title="English News",M-NEWS Pak
+https://cdn.rabta.stream/M-News/index.m3u8
 
 ==================== Hindi ====================
 
@@ -173,11 +175,17 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-name="MADANI TV Bangla" tvg-logo="http://198.195.239.50/img/channels/MADANI%20TV%20HD.png" group-title="Islamic",MADANI TV Bangla
 http://198.195.239.50:8095/MADANI.TV.HD/index.m3u8
 #EXTINF:-1 tvg-name="MADANI TV English" tvg-logo="https://i.postimg.cc/9MvBwqf5/images.png" group-title="Islamic",MADANI TV English
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8https://i.postimg.cc/9MvBwqf5/images.png
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
 #EXTINF:-1 tvg-name="PEACE.TV.BANGLA.HD" tvg-logo="http://198.195.239.50/img/channels/PEACE%20TV%20BANGLA.png" group-title="Islamic",PEACE.TV.BANGLA.HD
 http://198.195.239.50:8095/PEACE.TV.BANGLA.HD/index.m3u8
+#EXTINF:-1 tvg-name="Peace TV English" tvg-logo="https://i.postimg.cc/4xnn89j3/pis.jpg" group-title="Islamic",Peace TV English
+#EXTVLCOPT:http-referrer=https://myco.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://live1.ssmmcdn.cloud:2096/PEACETVENGLISHFHD/index.m3u8
+
 #EXTINF:-1 tvg-name="Ary QTV" tvg-logo="https://i.postimg.cc/hth9YYZx/ary-qtv.jpg" group-title="Islamic",Ary QTV
 https://aryqtvm.aryzap.com/v1/0183ea2a0eec0b8ed5941a38bc76/0183ea2a4e470b8ed5aa4d793457/ARYQTVH264_1080p.m3u8
+
 
 ==================== Kids ====================
 
@@ -326,7 +334,10 @@ https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66
 #EXTINF:-1 tvg-name="HUM TV Europe" tvg-logo="https://imgur.com/ybR52iU.png" group-title="Pakistani",HUM TV Europe
 https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8
 #EXTINF:-1 tvg-name="Aaj Entertainment" tvg-logo="https://www.aajentertainment.tv/_img/logo.png" group-title="Pakistani",Aaj Entertainment
-https://s2.ideationtec.live/AAJ_Entertainment/AAJ_Entertainment.m3u8
+#EXTVLCOPT:http-referrer=https://myco.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://live1.ssmmcdn.cloud:2096/AAJENTFHD/index.m3u8
+#https://s2.ideationtec.live/AAJ_Entertainment/AAJ_Entertainment.m3u8
 #EXTINF:-1 tvg-name="AAN Entertainment HD" tvg-logo="https://aan.tv/wp-content/uploads/2026/07/aan-logo-130-hd.191cfd24989417879e8e.png" group-title="Pakistani",AAN Entertainment HD
 https://s5.ideationtec.live/AAN_HD/AAN_HD.m3u8
 #EXTINF:-1 tvg-name="AUR Life HD" tvg-logo="https://aurlife.tv/wp-content/uploads/2021/11/Aur-life-Logo-png.png" group-title="Pakistani",AUR Life HD
@@ -341,6 +352,11 @@ https://cdn4.mjunoon.tv:8087/streamtest/166M/chunks.m3u8
 https://arydigitalm.aryzap.com/v1/0183ea2408f90b8ed5941a38bc72/0183ea24302d0b8ed5941a38bc75/main.m3u8
 #EXTINF:-1 tvg-name="Ary Zindagi" tvg-logo="https://i.postimg.cc/wTXPv19F/ary-zingadi.jpg" group-title="Pakistani",Ary Zindagi
 https://aryzindagim.aryzap.com/v1/01847acaa0f70b8ed5aa6ed04abe/01847acacfc30b8ed5aa6ed04ac1/ARYZindagiH264_1080p.m3u8
+#EXTINF:-1 tvg-name="MUN TV" tvg-logo="https://i.postimg.cc/Y09wp16G/mun.jpg" group-title="Pakistani",MUN TV
+#EXTVLCOPT:http-referrer=https://myco.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://live1.ssmmcdn.cloud:2096/MUNTVFHD/index.m3u8
+
 #EXTINF:-1 tvg-name="LTN Family HD" tvg-logo="https://i.imgur.com/n4CenYn.png" group-title="Pakistani",LTN Family HD
 https://s3.ideationtec.live/LTN_Family_HD/LTN_Family_HD.m3u8
 #EXTINF:-1 tvg-name="SET HD Kahani" tvg-logo="https://i.postimg.cc/Dzd9m5LQ/set-pk.png" group-title="Pakistani",SET HD Kahani
@@ -351,6 +367,8 @@ http://103.147.87.50:8001/play/a029/index.m3u8?hls
 http://103.147.87.50:8001/play/a00q/index.m3u8?hls
 #EXTINF:-1 tvg-name="PTV Global HD" tvg-logo="https://i.postimg.cc/CKsGRrJg/ptv-global.jpg" group-title="Pakistani",PTV Global HD
 http://103.147.87.50:8001/play/a00w/index.m3u8?hls
+#EXTINF:-1 tvg-name="M Entertainment HD" tvg-logo="https://ment.pk/wp-content/uploads/2026/04/M-Entertainment-500.png" group-title="Pakistani",M Entertainment
+https://cdn.rabta.stream/ME/index.m3u8
 
 ==================== Sports ====================
 
@@ -405,3 +423,5 @@ http://103.147.87.50:8001/play/a02w/index.m3u8?hls
 http://198.195.239.50:8095/UNITE8.1.HD/index.m3u8
 #EXTINF:-1 tvg-name="UNITE8.2.HD" tvg-logo="http://198.195.239.50/img/channels/images__9_.png" group-title="Sports",UNITE8.2.HD
 http://198.195.239.50:8095/UNITE8.2.HD/index.m3u8
+#EXTINF:-1 tvg-name="M Sports" tvg-logo="https://msports.pk/wp-content/uploads/2026/02/live-icon.png" group-title="Sports",M Sports
+https://cdn.rabta.stream/M-Sports/index.m3u8
