@@ -115,6 +115,11 @@ http://198.195.239.50:8095/ALJAZEERA.HD/index.m3u8
 http://198.195.239.50:8095/DW.NEWS.HD/index.m3u8
 #EXTINF:-1 tvg-name="BBC.NEWS" tvg-logo="http://198.195.239.50/img/channels/BBC%20NEWS.png" group-title="English News",BBC.NEWS
 http://198.195.239.50:8095/BBC.NEWS/index.m3u8
+#EXTINF:-1 tvg-name="NHK Japan" tvg-logo="https://i.postimg.cc/WpQXyXFQ/Nhk.png" group-title="English News",NHK Japan
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1 tvg-name="Reuters TV" tvg-logo="https://i.postimg.cc/MG9vc3JX/reu.png" group-title="English News",Reuters TV
+https://amg00453-reuters-amg00453c1-plex-us-2106.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-plexus/playlist.m3u8
+
 #EXTINF:-1 tvg-name="GNN Pak News" tvg-logo="https://i.postimg.cc/5yQRVm36/gnn-pk.png" group-title="English News",GNN Pak News
 https://s5.ideationtec.live/GNN_HD/GNN_HD.m3u8
 #EXTINF:-1 tvg-name="Ary NEWS HD" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/ary-news.png" group-title="English News",Ary NEWS HD
