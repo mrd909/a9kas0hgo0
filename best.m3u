@@ -130,7 +130,8 @@ http://103.147.87.50:8001/play/a00x/index.m3u8?hls
 https://s4.ideationtec.live/GTV_News_HD/GTV_News_HD.m3u8
 #EXTINF:-1 tvg-name="M-NEWS Pak" tvg-logo="https://mnews.pk/wp-content/uploads/2025/10/mnews-logo-news.png" group-title="English News",M-NEWS Pak
 https://cdn.rabta.stream/M-News/index.m3u8
-
+#EXTINF:-1 tvg-name="CBC NEWS Canada" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/948a6a9c11a6b84c87504f5cc9b7a8c5.webp" group-title="English News",CBC NEWS Canada
+https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8
 ==================== Hindi ====================
 
 
@@ -430,3 +431,5 @@ http://198.195.239.50:8095/UNITE8.1.HD/index.m3u8
 http://198.195.239.50:8095/UNITE8.2.HD/index.m3u8
 #EXTINF:-1 tvg-name="M Sports" tvg-logo="https://msports.pk/wp-content/uploads/2026/02/live-icon.png" group-title="Sports",M Sports
 https://cdn.rabta.stream/M-Sports/index.m3u8
+#EXTINF:-1 tvg-name="N Sports" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8bbe6817af0af2e0e5a6df96f245b752.webp" group-title="Sports",N Sports
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
