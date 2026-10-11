@@ -84,6 +84,8 @@ http://198.195.239.50:8095/animalPlanet/index.m3u8
 http://198.195.239.50:8095/SONY.BBC.EARTH.HD/index.m3u8
 #EXTINF:-1 tvg-name="HISTORY.TV.18.HD" tvg-logo="http://198.195.239.50/img/channels/HISTORY%20TV%20HD.png" group-title="Documentary & Nature",HISTORY.TV.18.HD
 http://198.195.239.50:8095/HISTORY.TV.18.HD/index.m3u8
+#EXTINF:-1 tvg-name="Timeline History" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/caa3e6b399b7cd5a84022ac9a60c09dc.webp" group-title="Documentary & Nature",Timeline History
+https://lds-timeline-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="DISCOVERY.HD" tvg-logo="http://198.195.239.50/img/channels/DISCOVERY%20HD.png" group-title="Documentary & Nature",DISCOVERY.HD
 http://198.195.239.50:8095/DISCOVERY.HD/index.m3u8
 #EXTINF:-1 tvg-name="NATGEO.WILD.Hindi" tvg-logo="http://198.195.239.50/img/channels/NATGEO%20WILD%20HD.png" group-title="Documentary & Nature",NATGEO.WILD.Hindi
@@ -100,7 +102,8 @@ http://198.195.239.50:8095/BBC.Earth.HD/index.m3u8
 http://198.195.239.50:8095/LOVE.NATURE/index.m3u8
 #EXTINF:-1 tvg-name="Discover Pakistan" tvg-logo="https://i.postimg.cc/WbY7SYwz/dpkk.png" group-title="Documentary & Nature",Discover Pakistan
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
-
+#EXTINF:-1 tvg-name="Love Nature 4K" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/89902ad1c93745ba04306321089fd39d.webp" group-title="Documentary & Nature",Love Nature 4k
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 
 ==================== Education ====================
 
@@ -279,8 +282,12 @@ http://198.195.239.50:8095/travelXp/index.m3u8
 ==================== Movies ====================
 
 
-#EXTINF:-1 tvg-name="STAR MOVIE Select HD" tvg-logo="http://103.151.60.190/tvlogo/starmovies.png" group-title="Movies",STAR MOVIE Select HD
+#EXTINF:-1 tvg-name="STAR MOVIES Select" tvg-logo="http://198.195.239.50/img/channels/images__3_.png" group-title="Movies",STAR MOVIES Select
 http://103.151.60.162:2122/play/a02l/index.m3u8?hls
+#http://51.75.127.199:3141/starmoviesselecthd/index.m3u8
+#EXTINF:-1 tvg-name="STAR MOVIES HD" tvg-logo="http://103.151.60.190/tvlogo/starmovies.png" group-title="Hindi",STAR MOVIES HD
+http://198.195.239.50:8095/STAR.MOVIES.HD/index.m3u8
+#http://51.75.127.199:3141/starmovieshd/index.m3u8
 #EXTINF:-1 tvg-name="Lotus.TV.HD" tvg-logo="http://198.195.239.50/img/channels/LOTUS%20TV.png" group-title="Movies",Lotus.TV.HD
 http://198.195.239.50:8095/Lotus.TV.HD/index.m3u8
 #EXTINF:-1 tvg-name="AXN.HD" tvg-logo="http://198.195.239.50/img/channels/AXN%20HD.png" group-title="Movies",AXN.HD
