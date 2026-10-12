@@ -136,6 +136,8 @@ http://198.195.239.50:8095/BBC.NEWS/index.m3u8
 #EXTINF:-1 tvg-name="NHK Japan" tvg-logo="https://i.postimg.cc/WpQXyXFQ/Nhk.png" group-title="English News",NHK Japan
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #https://nhk.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-name="TRT Worldn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" group-title="English News",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="Reuters TV" tvg-logo="https://i.postimg.cc/MG9vc3JX/reu.png" group-title="English News",Reuters TV
 https://amg00453-reuters-amg00453c1-plex-us-2106.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-plexus/playlist.m3u8
 #EXTINF:-1 tvg-name="CNA Singapore" tvg-logo="https://i.imgur.com/awIDugE.png" group-title="English News",CNA Singapore
@@ -322,7 +324,7 @@ https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="STAR MOVIES Select" tvg-logo="http://198.195.239.50/img/channels/images__3_.png" group-title="Movies",STAR MOVIES Select
 http://103.151.60.162:2122/play/a02l/index.m3u8?hls
 #http://51.75.127.199:3141/starmoviesselecthd/index.m3u8
-#EXTINF:-1 tvg-name="STAR MOVIES HD" tvg-logo="http://103.151.60.190/tvlogo/starmovies.png" group-title="Hindi",STAR MOVIES HD
+#EXTINF:-1 tvg-name="STAR MOVIES HD" tvg-logo="http://103.151.60.190/tvlogo/starmovies.png" group-title="Movies",STAR MOVIES HD
 http://198.195.239.50:8095/STAR.MOVIES.HD/index.m3u8
 #http://51.75.127.199:3141/starmovieshd/index.m3u8
 #EXTINF:-1 tvg-name="Lotus.TV.HD" tvg-logo="http://198.195.239.50/img/channels/LOTUS%20TV.png" group-title="Movies",Lotus.TV.HD
@@ -336,7 +338,8 @@ http://103.151.60.162:2122/play/a02g/index.m3u8?hls
 #EXTINF:-1 tvg-name="ABC TV" tvg-logo="https://i.imgur.com/DPVQSjM.png" group-title="Movies",ABC TV
 https://c.mjh.nz/abc-act.m3u8
 #https://c.mjh.nz/abc-nsw.m3u8
-
+#EXTINF:-1 tvg-name="TRT TURK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/960px-TRT_T%C3%BCrk_logo.svg.png" group-title="Movies",TRT TURK
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
 ==================== Music ====================
 
 #EXTINF:-1 tvg-name="SANGEET BANGLA" tvg-logo="http://198.195.239.50/img/channels/SANGEET%20BANGLA.png" group-title="Music",SANGEET BANGLA
@@ -361,7 +364,7 @@ https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/live/135M/chunks.m3u8
 ==================== Other Countries ====================
 #EXTINF:-1 tvg-name="Roar" tvg-logo="https://iili.io/FxYNwOB.md.png" group-title="Other Countries",Roar
 https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
-#EXTINF:-1 tvg-name="Estrella TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/WMBC_logo.jpg" group-title="Other Countries",Estrella TV
+#EXTINF:-1 tvg-name="Estrella TV" tvg-logo="https://i.postimg.cc/2yQbJm3x/estrela.png" group-title="Other Countries",Estrella TV
 https://aegis-cloudfront-1.tubi.video/20bf77c0-dc60-46ae-8e87-c01cc7a836fc/playlist.m3u8
 #https://estrellatv-glewed.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Young Hollywood" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="Other Countries",Young Hollywood
@@ -377,8 +380,8 @@ https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/
 https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="TUTV" tvg-logo="https://i.imgur.com/At0BPeA.png" group-title="Other Countries",Temple University
 https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-
-
+#EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png" group-title="Other Countries",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 
 ==================== Pakistani ====================
 
