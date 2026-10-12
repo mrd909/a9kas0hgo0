@@ -104,13 +104,17 @@ http://198.195.239.50:8095/LOVE.NATURE/index.m3u8
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 #EXTINF:-1 tvg-name="Love Nature 4K" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/89902ad1c93745ba04306321089fd39d.webp" group-title="Documentary & Nature",Love Nature 4k
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
-
+#EXTINF:-1 tvg-name="Bloomberg Originals" tvg-logo="https://i.postimg.cc/HxRXSw9j/BBOriginal.jpg" group-title="Education",Bloomberg Originals
+https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8
+#https://bloomberg.com/media-manifest/streams/qt.m3u8
 ==================== Education ====================
 
 #EXTINF:-1 tvg-name="Alief TV" tvg-logo="https://i.postimg.cc/3RgwBWWm/alief-pak.jpg" group-title="Education",Alief TV
 http://103.147.87.50:8001/play/a02p/index.m3u8?hls
 #EXTINF:-1 tvg-name="5 Minute Crafts" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/aade542208ceee1dd2c608fe42c0375c.webp" group-title="Education",5 Minute Crafts
 https://amg02051-soulpublishing-amg02051c7-plex-us-306.playouts.now.amagi.tv/playlist/amg02051-amg02051c7-306/playlist.m3u8
+#EXTINF:-1 tvg-name="CNA Originals" tvg-logo="https://assets.swoogo.com/uploads/medium/6345103-6978ab9a0264b.png" group-title="Education",CNA Originals
+https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
 ==================== English News ====================
 
 #EXTINF:-1 tvg-name="ALJAZEERA.HD" tvg-logo="http://198.195.239.50/img/channels/images__7_.png" group-title="English News",ALJAZEERA.HD
@@ -124,20 +128,28 @@ https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #https://nhk.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-name="Reuters TV" tvg-logo="https://i.postimg.cc/MG9vc3JX/reu.png" group-title="English News",Reuters TV
 https://amg00453-reuters-amg00453c1-plex-us-2106.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-plexus/playlist.m3u8
+#EXTINF:-1 tvg-name="CNA Singapore" tvg-logo="https://i.imgur.com/awIDugE.png" group-title="English News",CNA Singapore
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-name="Bloomberg TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a024c9bc44f4adf14389bbfeab689cd2.webp" group-title="English News",Bloomberg TV
 https://cdn4.skygo.mn/live/disk1/Bloomberg/HLSv3-FTA/Bloomberg.m3u8
+#https://mumbai-edge.smartplaytv.in/Bloomberg/index.m3u8
 #EXTINF:-1 tvg-name="SKY NEWS UK" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/eb20b62966b86fab810313b033c39363.webp" group-title="English News",SKY NEWS UK
 https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/master.m3u8?ads.cdn=https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com&ads.csid=sitesection:SkyNews:Web&manifest.mthost=7a38d30e7dd84cd0872ab4f691c38f58&manifest.region=mediatailor.eu-west-1.amazonaws.com
-#EXTINF:-1 tvg-name="ABC NEWS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ec432b3a9f86ac0b68d68ce11c20dd99.webp" group-title="English News",ABC NEWS
+#EXTINF:-1 tvg-name="ABC USA" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ec432b3a9f86ac0b68d68ce11c20dd99.webp" group-title="English News",ABC USA
 https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
-#EXTINF:-1 tvg-name="ABC News Australia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/70c3a73cb46cc1d37a6d0491827be516.webp" group-title="English News",ABC News Australia
-https://s5.ideationtec.live/GNN_HD/GNN_HD.m3u8
+#EXTINF:-1 tvg-name="ABC News Australia" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="English News",ABC News Australia
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#https://c.mjh.nz/abc-news.m3u8
+#EXTINF:-1 tvg-name="Yahoo Finance" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/70c3a73cb46cc1d37a6d0491827be516.webp" group-title="English News",Yahoo Finance
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#https://yahoofina-yahoofinance-plex-kgckp.amagi.tv/playlist/yahoofina-yahoofinance-plex/playlist.m3u8
 #EXTINF:-1 tvg-name="GNN Pak News" tvg-logo="https://i.postimg.cc/5yQRVm36/gnn-pk.png" group-title="English News",GNN Pak News
 https://s5.ideationtec.live/GNN_HD/GNN_HD.m3u8
 #EXTINF:-1 tvg-name="Ary NEWS HD" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/ary-news.png" group-title="English News",Ary NEWS HD
 https://arynewsm.aryzap.com/v1/0183ea205add0b8ed5941a38bc6f/018ad63928611ea50695040da296/main.m3u8
 #EXTINF:-1 tvg-name="PTV World" tvg-logo="https://i.postimg.cc/YSdRSqtV/ptv-world.jpg" group-title="Pakistani",PTV World
 http://103.147.87.50:8001/play/a00x/index.m3u8?hls
+
 #EXTINF:-1 tvg-name="GTV Pak" tvg-logo="https://i.postimg.cc/bwf7Yv4G/gtvpak.jpg" group-title="English News",GTV Pak
 https://s4.ideationtec.live/GTV_News_HD/GTV_News_HD.m3u8
 #EXTINF:-1 tvg-name="M-NEWS Pak" tvg-logo="https://mnews.pk/wp-content/uploads/2025/10/mnews-logo-news.png" group-title="English News",M-NEWS Pak
@@ -278,12 +290,16 @@ http://198.195.239.50:8095/ENTER10.BANGLA/index.m3u8
 ==================== Lifestyle & Travel ====================
 #EXTINF:-1 tvg-name="TRAVEL XP Bangla" tvg-logo="http://198.195.239.50/img/channels/TRAVEL%20XP.png" group-title="Lifestyle & Travel",TRAVEL XP Bangla
 http://198.195.239.50:8095/travelXp/index.m3u8
+#EXTINF:-1 tvg-name="Fail Army" tvg-logo="https://i.imgur.com/VIpQJxL.png" group-title="Lifestyle & Travel",Fail Army
+https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-name="TLC.HD" tvg-logo="http://198.195.239.50/img/channels/TLC%20HD.png" group-title="Lifestyle & Travel",TLC.HD
 http://198.195.239.50:8095/TLC.HD/index.m3u8
 #EXTINF:-1 tvg-name="TXP Story" tvg-logo="https://i.postimg.cc/phzHww9v/txn.jpg" group-title="Lifestyle & Travel",TXP Story
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="XPLOR Hindi" tvg-logo="http://198.195.239.50/img/channels/images__5_.jpg" group-title="Lifestyle & Travel",XPLOR Hindi
 http://198.195.239.50:8095/XPLOR.HD/index.m3u8
+#EXTINF:-1 tvg-name="Just Love for Gags" tvg-logo="https://i.imgur.com/HjVEVMJ.png" group-title="Lifestyle & Travel",Just Love for Gags
+https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="TRAVELXP Eng" tvg-logo="http://198.195.239.50/img/channels/images__6_.png" group-title="Lifestyle & Travel",TRAVELXP Eng
 http://198.195.239.50:8095/travelXp/index.m3u8
 #EXTINF:-1 tvg-name="Cultura 13 Spanish" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a64825f6e75f29a29c6965d52f626e52.webp" group-title="Lifestyle & Travel",Cultura 13 Spanish
@@ -305,6 +321,9 @@ http://198.195.239.50:8095/AXN.HD/index.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=49858&uid=12481&deviceMac=00:1A:79:6C:28:A1
 #EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://iili.io/Ju79IMN.png" group-title="Movies",HBO Signature
 http://103.151.60.162:2122/play/a02g/index.m3u8?hls
+#EXTINF:-1 tvg-name="ABC TV" tvg-logo="https://i.imgur.com/DPVQSjM.png" group-title="Movies",ABC TV
+https://c.mjh.nz/abc-act.m3u8
+#https://c.mjh.nz/abc-nsw.m3u8
 
 ==================== Music ====================
 
