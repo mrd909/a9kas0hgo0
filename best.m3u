@@ -88,6 +88,8 @@ http://198.195.239.50:8095/HISTORY.TV.18.HD/index.m3u8
 https://lds-timeline-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="DISCOVERY.HD" tvg-logo="http://198.195.239.50/img/channels/DISCOVERY%20HD.png" group-title="Documentary & Nature",DISCOVERY.HD
 http://198.195.239.50:8095/DISCOVERY.HD/index.m3u8
+#EXTINF:-1 tvg-name="HISTORY ASIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentary & Nature",HISTORY ASIA
+https://freem3u.xyz/api/live/play.m3u8?vid=9856
 #EXTINF:-1 tvg-name="NATGEO.WILD.Hindi" tvg-logo="http://198.195.239.50/img/channels/NATGEO%20WILD%20HD.png" group-title="Documentary & Nature",NATGEO.WILD.Hindi
 http://198.195.239.50:8095/NATGEO.WILD.HD/index.m3u8
 #EXTINF:-1 tvg-name="NATGEOPlus.Eng" tvg-logo="http://198.195.239.50/img/channels/NATGEO%20HD.png" group-title="Documentary & Nature",NATGEOPlus.Eng
@@ -102,9 +104,10 @@ http://198.195.239.50:8095/BBC.Earth.HD/index.m3u8
 http://198.195.239.50:8095/LOVE.NATURE/index.m3u8
 #EXTINF:-1 tvg-name="Discover Pakistan" tvg-logo="https://i.postimg.cc/WbY7SYwz/dpkk.png" group-title="Documentary & Nature",Discover Pakistan
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
-#EXTINF:-1 tvg-name="Love Nature 4K" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/89902ad1c93745ba04306321089fd39d.webp" group-title="Documentary & Nature",Love Nature 4k
+#EXTINF:-1 tvg-name="Love Nature 4K" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/89902ad1c93745ba04306321089fd39d.webp" group-title="Documentary & Nature",Love Nature 4K
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
-
+#EXTINF:-1 tvg-name="History HIT" tvg-logo="https://i.imgur.com/ulHoqlP.png" group-title="Documentary & Nature",History HIT
+https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8
 ==================== Education ====================
 #EXTINF:-1 tvg-name="Bloomberg Originals" tvg-logo="https://i.postimg.cc/HxRXSw9j/BBOriginal.jpg" group-title="Education & Business",Bloomberg Originals
 https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8
@@ -165,6 +168,8 @@ http://103.147.87.50:8001/play/a00x/index.m3u8?hls
 https://s4.ideationtec.live/GTV_News_HD/GTV_News_HD.m3u8
 #EXTINF:-1 tvg-name="M-NEWS Pak" tvg-logo="https://mnews.pk/wp-content/uploads/2025/10/mnews-logo-news.png" group-title="English News",M-NEWS Pak
 https://cdn.rabta.stream/M-News/index.m3u8
+#EXTINF:-1 tvg-name="M-World" tvg-logo="https://mworld.news/wp-content/uploads/2026/01/logo-512-300x300.jpg" group-title="English News",M-World
+https://cdn.rabta.stream/M-World/index.m3u8
 #EXTINF:-1 tvg-name="CBC NEWS Canada" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/948a6a9c11a6b84c87504f5cc9b7a8c5.webp" group-title="English News",CBC NEWS Canada
 https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8
 ==================== Hindi ====================
@@ -266,6 +271,7 @@ http://198.195.239.50:8095/SUPER.HUNGAMA/index.m3u8
 http://198.195.239.50:8095/SONY.YAY/index.m3u8
 #EXTINF:-1 tvg-name="PBS KIDS" tvg-logo="https://i.imgur.com/WZ1yJZj.png" group-title="Kids",PBS KIDS
 https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8
+
 ==================== Kolkata Bangla ====================
 
 #EXTINF:-1 tvg-name="STAR JALSHA HD" tvg-logo="http://198.195.239.50/img/channels/STAR%20JALSHA%20HD.png" group-title="Kolkata",STAR JALSHA HD
@@ -318,6 +324,18 @@ http://198.195.239.50:8095/travelXp/index.m3u8
 https://dai.google.com/linear/hls/pb/event/GI-9cp_bT8KcerLpZwkuhw/stream/108fcdf3-22ec-4d5a-b91e-0fb3d8ec77c4:TPE/master.m3u8
 #EXTINF:-1 tvg-name="Fun Roads" tvg-logo="https://i.imgur.com/96ksfwJ.png" group-title="Lifestyle & Travel",Fun Roads
 https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="FashionBox HD" tvg-logo="https://i.imgur.com/Taqj4yi.png" group-title="Lifestyle & Travel",FashionBox HD
+https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-name="FashionTV Paris L'Original" tvg-logo="https://imgur.com/GFTAN5Q.png" group-title="Lifestyle & Travel",FashionTV Paris L'Original
+https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+#EXTINF:-1 tvg-name="Fashion Russia" tvg-logo="https://i.imgur.com/ETmpllL.png" group-title="Lifestyle & Travel",Fashion Russia
+http://stream.mcquack.net/119/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
+#http://stream.mcquack.net/119/index.m3u8
+#EXTINF:-1 tvg-name="Digital Fashion India" tvg-logo="https://cdn.technettv.com/channel/34413/logo_256.jpg" group-title="Lifestyle & Travel",Digital Fashion India
+http://115.187.41.216:8080/hls/digitalfashion/index.m3u8
+#EXTINF:-1 tvg-name="China Travel" tvg-logo="https://i.imgur.com/vSgY3CD.png" group-title="Lifestyle & Travel",China Travel
+https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
+
 ==================== Movies ====================
 
 
@@ -374,6 +392,13 @@ https://aegis-cloudfront-1.tubi.video/f28725de-4a81-4382-a86d-fac1d93b0d60/playl
 #https://amg00567-estrellamedia-estrellagames-distrotv-6okbz.amagi.tv/playlist/amg00567-estrellamedia-estrellagames-distrotv/playlist.m3u8
 #EXTINF:-1 tvg-name="Entertainment Tonight" tvg-logo="https://i.postimg.cc/BZHF7W82/et.png" group-title="Other Countries",Entertainment Tonight
 https://enterbcef94b.airspace-cdn.cbsivideo.com/master.m3u8
+#EXTINF:-1 tvg-name="Global Fashion Channel" tvg-logo="https://i.imgur.com/s4eGYEP.jpg" group-title="Other Countries",Global Fashion Channel
+https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+#EXTINF:-1 tvg-name="FashionTV Secrets" tvg-logo="https://i.ibb.co/fVGJyCC8/w512.png group-title="Other Countries",FashionTV Secrets
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
+#EXTINF:-1 tvg-name="Code Fashion TVr" tvg-logo="https://i.imgur.com/mVc2g64.png" group-title="Other Countries",Code Fashion TV
+https://cdn2.invivo.bg/Codefashion_5500/index.m3u8
+
 #EXTINF:-1 tvg-name="Documentary PLUS" tvg-logo="https://i.imgur.com/x57klfS.png" group-title="Other Countries",Documentary PLUS
 https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="California University" tvg-logo="https://i.imgur.com/ehMz9T5.png" group-title="Other Countries",California University
@@ -505,7 +530,7 @@ https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 http://198.195.239.50:8095/UNITE8.1.HD/index.m3u8
 #EXTINF:-1 tvg-name="UNITE8.2.HD" tvg-logo="http://198.195.239.50/img/channels/images__9_.png" group-title="Sports",UNITE8.2.HD
 http://198.195.239.50:8095/UNITE8.2.HD/index.m3u8
-#EXTINF:-1 tvg-name="M Sports" tvg-logo="https://msports.pk/wp-content/uploads/2026/02/live-icon.png" group-title="Sports",M Sports
+#EXTINF:-1 tvg-name="M Sports" tvg-logo="https://msports.pk/wp-content/uploads/2026/02/m-sports-300-1.png" group-title="Sports",M Sports
 https://cdn.rabta.stream/M-Sports/index.m3u8
 #EXTINF:-1 tvg-name="N Sports" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8bbe6817af0af2e0e5a6df96f245b752.webp" group-title="Sports",N Sports
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
