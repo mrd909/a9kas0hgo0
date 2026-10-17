@@ -99,15 +99,22 @@ http://103.151.60.162:2122/play/a01f/index.m3u8?hls
 #EXTINF:-1 tvg-name="ANIMAL.PLANET.HD" tvg-logo="http://198.195.239.50/img/channels/ANIMAL%20PLANET%20HD.png" group-title="Documentary & Nature",ANIMAL.PLANET.HD
 http://198.195.239.50:8095/ANIMAL.PLANET.HD/index.m3u8
 #EXTINF:-1 tvg-name="BBC.Earth.HD" tvg-logo="http://198.195.239.50/img/channels/BBC%20EARTH%20HD.png" group-title="Documentary & Nature",BBC.Earth.HD
-http://198.195.239.50:8095/BBC.Earth.HD/index.m3u8
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/720p-en-cc/index.m3u8
+#https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+#http://198.195.239.50:8095/BBC.Earth.HD/index.m3u8
 #EXTINF:-1 tvg-name="LOVE.NATURE" tvg-logo="http://198.195.239.50/img/channels/LOVE%20NATURE.png" group-title="Documentary & Nature",LOVE.NATURE
 http://198.195.239.50:8095/LOVE.NATURE/index.m3u8
 #EXTINF:-1 tvg-name="Discover Pakistan" tvg-logo="https://i.postimg.cc/WbY7SYwz/dpkk.png" group-title="Documentary & Nature",Discover Pakistan
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+#EXTINF:-1 tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="Documentary & Nature",CGTN Documentary
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master720p.m3u8
+#https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-name="Love Nature 4K" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/89902ad1c93745ba04306321089fd39d.webp" group-title="Documentary & Nature",Love Nature 4K
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 #EXTINF:-1 tvg-name="History HIT" tvg-logo="https://i.imgur.com/ulHoqlP.png" group-title="Documentary & Nature",History HIT
 https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8
+EXTINF:-1 tvg-name="Wild Earth" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="Documentary & Nature",WildEarth
+https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
 ==================== Education ====================
 #EXTINF:-1 tvg-name="Bloomberg Originals" tvg-logo="https://i.postimg.cc/HxRXSw9j/BBOriginal.jpg" group-title="Education & Business",Bloomberg Originals
 https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8
@@ -123,6 +130,9 @@ http://103.147.87.50:8001/play/a02p/index.m3u8?hls
 https://amg02051-soulpublishing-amg02051c7-plex-us-306.playouts.now.amagi.tv/playlist/amg02051-amg02051c7-306/playlist.m3u8
 #EXTINF:-1 tvg-name="CNA Originals" tvg-logo="https://assets.swoogo.com/uploads/medium/6345103-6978ab9a0264b.png" group-title="Education & Business",CNA Originals
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="CGTN Global Biz" tvg-logo="https://i.imgur.com/qBmomnF.png" group-title="Education & Business",CGTN Global Biz
+https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index_8.m3u8
+#https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
 #EXTINF:-1 tvg-name="Entrepreneur TV" tvg-logo="https://i.imgur.com/isRfHYZ.png" group-title="Education & Business",Entrepreneur TV
 https://a-cdn.klowdtv.com/live3/entrepreneurtv_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Cloudflare TV" tvg-logo="https://i.imgur.com/l4m0is8.jpeg" group-title="Education & Business",Cloudflare TV
@@ -139,12 +149,18 @@ http://198.195.239.50:8095/BBC.NEWS/index.m3u8
 #EXTINF:-1 tvg-name="NHK Japan" tvg-logo="https://i.postimg.cc/WpQXyXFQ/Nhk.png" group-title="English News",NHK Japan
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #https://nhk.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-name="Sky News Arabia" tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="English News",Sky News Arabia
+https://stream.skynewsarabia.com/ott/ott.m3u8
 #EXTINF:-1 tvg-name="TRT Worldn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" group-title="English News",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="Reuters TV" tvg-logo="https://i.postimg.cc/MG9vc3JX/reu.png" group-title="English News",Reuters TV
 https://amg00453-reuters-amg00453c1-plex-us-2106.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-plexus/playlist.m3u8
 #EXTINF:-1 tvg-name="CNA Singapore" tvg-logo="https://i.imgur.com/awIDugE.png" group-title="English News",CNA Singapore
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png" group-title="English News",CGTN
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master720p.m3u8
+#https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+
 #EXTINF:-1 tvg-name="Bloomberg TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a024c9bc44f4adf14389bbfeab689cd2.webp" group-title="English News",Bloomberg TV
 https://cdn4.skygo.mn/live/disk1/Bloomberg/HLSv3-FTA/Bloomberg.m3u8
 #https://mumbai-edge.smartplaytv.in/Bloomberg/index.m3u8
