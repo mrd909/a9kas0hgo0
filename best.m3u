@@ -2,10 +2,14 @@
 
 ==================== Bangla ====================
 
-#EXTINF:-1 tvg-name="BTV National" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png" group-title="Bangla",BTV National
+#EXTINF:-1 tvg-name="BTV HD" tvg-logo="https://i.postimg.cc/V6P0txFv/Btvbd.jpg" group-title="Bangla",BTV HD
+http://103.135.253.32:8080/BTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="BTV" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png" group-title="Bangla",BTV
 https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL2xpdmUuYnR2bGl2ZS5nb3YuYmQvbGl2ZS9iZjczZDllMS1mODI2LTQzMDYtOTBkNC0xZDhlNGQ4NzRkYjEvQkQvMzU1YmEwNTEtOWE2MC00OGFhLWFkY2YtNWE2YzY0ZGE4YzVjL2luZGV4Lm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly93d3cuYnR2bGl2ZS5nb3YuYmQvY2hhbm5lbC9CVFYiLCJjaGFubmVsIjoiTGl2ZSA0Iiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJjb29raWUiOiJ1bmlxdWVJZD1iZjczZDllMS1mODI2LTQzMDYtOTBkNC0xZDhlNGQ4NzRkYjE7IE1heC1BZ2U9ODY0MDA7IFBhdGg9LzsgSHR0cE9ubHk7IFNhbWVTaXRlPVN0cmljdCIsInJlZmVyZXIiOiJodHRwczovL3d3dy5idHZsaXZlLmdvdi5iZC9jaGFubmVsL0JUViJ9fQ.m3u8
 #EXTINF:-1 tvg-name="BTV Chittagong" tvg-logo="https://i.postimg.cc/rytpmQfg/btvctg1.jpg" group-title="Bangla",BTV Chittagong
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
+#EXTINF:-1 tvg-name="BTV Chittagong HD" tvg-logo="https://i.postimg.cc/T1YsRHFj/BTVctg.webp" group-title="Bangla",BTV Chittagong HD
+https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL2xpdmUuYnR2bGl2ZS5nb3YuYmQvbGl2ZS9iZjczZDllMS1mODI2LTQzMDYtOTBkNC0xZDhlNGQ4NzRkYjEvQkQvYTcwN2YyZGMtOTcwNC00MTNhLWE2N2MtMTdjNjRhNzdjMzUwL2luZGV4Lm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly93d3cuYnR2bGl2ZS5nb3YuYmQvY2hhbm5lbC9CVFYiLCJjaGFubmVsIjoiTGl2ZSAyIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJjb29raWUiOiJ1bmlxdWVJZD1iZjczZDllMS1mODI2LTQzMDYtOTBkNC0xZDhlNGQ4NzRkYjE7IE1heC1BZ2U9ODY0MDA7IFBhdGg9LzsgSHR0cE9ubHk7IFNhbWVTaXRlPVN0cmljdCIsInJlZmVyZXIiOiJodHRwczovL3d3dy5idHZsaXZlLmdvdi5iZC9jaGFubmVsL0JUViJ9fQ.m3u8
 #EXTINF:-1 tvg-name="Ekushey TV" tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="Bangla",Ekushey TV
 http://198.195.239.50:8095/ETV.BANGLA.HD/index.m3u8
 #EXTINF:-1 tvg-name="DEEPTO TV" tvg-logo="http://198.195.239.50/img/channels/DEEPTO.png" group-title="Bangla",DEEPTO TV
@@ -37,7 +41,8 @@ https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL2xpdmUuYnR2bGl2ZS5nb3YuY
 ==================== Bangla News ====================
 
 #EXTINF:-1 tvg-name="BTV News HD" tvg-logo="https://i.postimg.cc/bJN4scX1/btv-news.jpg" group-title="Bangla News",BTV News HD
-http://198.195.239.50:8095/btv/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.btvlive.gov.bd/channel/BTV
+https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL2xpdmUuYnR2bGl2ZS5nb3YuYmQvbGl2ZS9iZjczZDllMS1mODI2LTQzMDYtOTBkNC0xZDhlNGQ4NzRkYjEvQkQvZDk2ZWI3ZjQtODNjMi00NDcyLTk1OTctMzU2ODM5MGE4ZWJmL2luZGV4Lm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly93d3cuYnR2bGl2ZS5nb3YuYmQvY2hhbm5lbC9CVFYiLCJjaGFubmVsIjoiTGl2ZSIsIm9yaWdpbiI6IiIsImhlYWRlcnMiOnsiY29va2llIjoidW5pcXVlSWQ9YmY3M2Q5ZTEtZjgyNi00MzA2LTkwZDQtMWQ4ZTRkODc0ZGIxOyBNYXgtQWdlPTg2NDAwOyBQYXRoPS87IEh0dHBPbmx5OyBTYW1lU2l0ZT1TdHJpY3QiLCJyZWZlcmVyIjoiaHR0cHM6Ly93d3cuYnR2bGl2ZS5nb3YuYmQvY2hhbm5lbC9CVFYifX0.m3u8
 #EXTINF:-1 tvg-name="SOMOY TV HD" tvg-logo="http://198.195.239.50/img/channels/SOMOY%20TV.png" group-title="Bangla News",SOMOY TV HD
 http://198.195.239.50:8095/somoyTv/index.m3u8
 #EXTINF:-1 tvg-name="DBC.NEWS.HD" tvg-logo="http://198.195.239.50/img/channels/DBC%20NEWS.png" group-title="Bangla News",DBC.NEWS.HD
