@@ -4,35 +4,44 @@
 
 #EXTINF:-1 tvg-name="BTV HD" tvg-logo="https://i.postimg.cc/V6P0txFv/Btvbd.jpg" group-title="Bangla",BTV HD
 http://103.135.253.32:8080/BTV/tracks-v1a1/mono.m3u8
-#https://box.bbaria.net/BTV/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="BTV" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png" group-title="Bangla",BTV
-https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL2xpdmUuYnR2bGl2ZS5nb3YuYmQvbGl2ZS9iZjczZDllMS1mODI2LTQzMDYtOTBkNC0xZDhlNGQ4NzRkYjEvQkQvMzU1YmEwNTEtOWE2MC00OGFhLWFkY2YtNWE2YzY0ZGE4YzVjL2luZGV4Lm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly93d3cuYnR2bGl2ZS5nb3YuYmQvY2hhbm5lbC9CVFYiLCJjaGFubmVsIjoiTGl2ZSA0Iiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJjb29raWUiOiJ1bmlxdWVJZD1iZjczZDllMS1mODI2LTQzMDYtOTBkNC0xZDhlNGQ4NzRkYjE7IE1heC1BZ2U9ODY0MDA7IFBhdGg9LzsgSHR0cE9ubHk7IFNhbWVTaXRlPVN0cmljdCIsInJlZmVyZXIiOiJodHRwczovL3d3dy5idHZsaXZlLmdvdi5iZC9jaGFubmVsL0JUViJ9fQ.m3u8
+#EXTVLCOPT:http-origin=https://www.btvlive.gov.bd
+https://live.btvlive.gov.bd/live/3279ba08-3851-4cef-a578-ee165ec60a77/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8
 #EXTINF:-1 tvg-name="BTV Chittagong" tvg-logo="https://i.postimg.cc/rytpmQfg/btvctg1.jpg" group-title="Bangla",BTV Chittagong
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 #EXTINF:-1 tvg-name="BTV Chittagong HD" tvg-logo="https://i.postimg.cc/T1YsRHFj/BTVctg.webp" group-title="Bangla",BTV Chittagong HD
-https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL2xpdmUuYnR2bGl2ZS5nb3YuYmQvbGl2ZS9iZjczZDllMS1mODI2LTQzMDYtOTBkNC0xZDhlNGQ4NzRkYjEvQkQvYTcwN2YyZGMtOTcwNC00MTNhLWE2N2MtMTdjNjRhNzdjMzUwL2luZGV4Lm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly93d3cuYnR2bGl2ZS5nb3YuYmQvY2hhbm5lbC9CVFYiLCJjaGFubmVsIjoiTGl2ZSAyIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJjb29raWUiOiJ1bmlxdWVJZD1iZjczZDllMS1mODI2LTQzMDYtOTBkNC0xZDhlNGQ4NzRkYjE7IE1heC1BZ2U9ODY0MDA7IFBhdGg9LzsgSHR0cE9ubHk7IFNhbWVTaXRlPVN0cmljdCIsInJlZmVyZXIiOiJodHRwczovL3d3dy5idHZsaXZlLmdvdi5iZC9jaGFubmVsL0JUViJ9fQ.m3u8
+#EXTVLCOPT:http-origin=https://www.btvlive.gov.bd
+https://live.btvlive.gov.bd/live/3279ba08-3851-4cef-a578-ee165ec60a77/BD/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
 #EXTINF:-1 tvg-name="Ekushey TV" tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="Bangla",Ekushey TV
 https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8
 #https://tvsen5.aynaott.com/SyQuXz8sC3TB/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="CHANNEL.I" tvg-logo="http://198.195.239.50/img/channels/CHANNEL%20I.png" group-title="Bangla",CHANNEL.I
+http://103.135.253.32:8080/CHANNEL-I/index.m3u8?hls
+#https://iptv-proxy.ahmed-bd-org.workers.dev/channel-i/index.m3u8
+#EXTINF:-1 tvg-name="ATN.BANGLA" tvg-logo="http://198.195.239.50/img/channels/ATN%20BANGLA.png" group-title="Bangla",ATN.BANGLA
+http://103.135.253.32:8080/ATN-Bangla/index.m3u8?hls
+#EXTINF:-1 tvg-name="NTV" tvg-logo="https://i.postimg.cc/kgzHqBLL/20250529-072107.png" group-title="Bangla",NTV
+#https://ireentv.pages.dev/NTV_Server_1.m3u8
+http://103.135.253.32:8080/NTV/index.m3u8
+#https://ireentv.pages.dev/NTV_Server_3.m3u8
 #EXTINF:-1 tvg-name="RTV" tvg-logo="https://i.imgur.com/yu8ugqt.png" group-title="Bangla",RTV
 https://tvsen6.aynaott.com/rtv/index.m3u8
 #https://j6nfugukcl.gpcdn.net/tile_6/master.m3u8
 #EXTINF:-1 tvg-name="DEEPTO TV" tvg-logo="http://198.195.239.50/img/channels/DEEPTO.png" group-title="Bangla",DEEPTO TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 tvg-name="BOISAKHI.TV.HD" tvg-logo="http://198.195.239.50/img/channels/boishakhi-tv.jpg" group-title="Bangla",BOISAKHI.TV.HD
-http://198.195.239.50:8095/BOISAKHI.TV.HD/index.m3u8
+https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 #EXTINF:-1 tvg-name="NAGORIK.TV.HD" tvg-logo="http://198.195.239.50/img/channels/NAGORIK.png" group-title="Bangla",NAGORIK.TV.HD
 https://flussonic.defineatoz.com/backup/tracks-v1a1/mono.m3u8
-#https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="GAZI.TV.HD" tvg-logo="http://198.195.239.50/img/channels/images__4_.png" group-title="Bangla",GAZI.TV.HD
 http://103.135.253.32:8080/Gazi-TV/index.m3u8?hls
 #EXTINF:-1 tvg-name="MASRANGA.TV.HD" tvg-logo="http://198.195.239.50/img/channels/images__7_.jpg" group-title="Bangla",MASRANGA.TV.HD
 https://mtv.sunplex.live/MAASRANGA/index.m3u8
-#http://116.204.149.16/maasranga/index.m3u8
-#EXTINF:-1 tvg-name="ATN.BANGLA.HD" tvg-logo="http://198.195.239.50/img/channels/ATN%20BANGLA.png" group-title="Bangla",ATN.BANGLA.HD
-http://tvsen5.aynascope.net/atnbangla/index.m3u8
-#EXTINF:-1 tvg-name="CHANNEL.I.HD" tvg-logo="http://198.195.239.50/img/channels/CHANNEL%20I.png" group-title="Bangla",CHANNEL.I.HD
-https://iptv-proxy.ahmed-bd-org.workers.dev/channel-i/index.m3u8
+#EXTINF:-1 tvg-name="Nexus Television" tvg-logo="https://i.postimg.cc/KcrZcc72/my-nexus-tv.png" group-title="Bangla",Nexus Television
+https://toffee.sm-monirul-islam-rs.workers.dev/nexus_tv/index.m3u8
+#https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
+#EXTINF:-1 tvg-name="MY TV" tvg-logo="https://i.postimg.cc/HxGF4V2b/20250529_103226.png" group-title="Bangla",MY TV
+https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
 #EXTINF:-1 tvg-name="Channel 9" tvg-logo="https://i.postimg.cc/SsLsPgcP/channel-9.png" group-title="Bangla",Channel 9
 https://box.bbaria.net/Channel9/tracks-v1a1/index.m3u8
 
@@ -49,36 +58,41 @@ http://27.124.71.27/Sun_Bangla/index.m3u8
 #https://live.sanandatelevision.in/sananda/index.m3u8
 
 #EXTINF:-1 tvg-name="Songsod TV" tvg-logo="https://i.postimg.cc/gkqbwMrD/songsod.png" group-title="Bangla",Songsod TV
-https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL2xpdmUuYnR2bGl2ZS5nb3YuYmQvbGl2ZS9iZjczZDllMS1mODI2LTQzMDYtOTBkNC0xZDhlNGQ4NzRkYjEvQkQvOWVlM2I0ZjktZmQwYS00N2M1LWExMzUtMjU3NWM1NjkxNjEzL2luZGV4Lm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly93d3cuYnR2bGl2ZS5nb3YuYmQvY2hhbm5lbC9CVFYiLCJjaGFubmVsIjoiTGl2ZSAzIiwib3JpZ2luIjoiIiwiaGVhZGVycyI6eyJjb29raWUiOiJ1bmlxdWVJZD1iZjczZDllMS1mODI2LTQzMDYtOTBkNC0xZDhlNGQ4NzRkYjE7IE1heC1BZ2U9ODY0MDA7IFBhdGg9LzsgSHR0cE9ubHk7IFNhbWVTaXRlPVN0cmljdCIsInJlZmVyZXIiOiJodHRwczovL3d3dy5idHZsaXZlLmdvdi5iZC9jaGFubmVsL0JUViJ9fQ.m3u8
-
+#EXTVLCOPT:http-origin=https://www.btvlive.gov.bd
+https://live.btvlive.gov.bd/live/3279ba08-3851-4cef-a578-ee165ec60a77/BD/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
 
 
 ==================== Bangla News ====================
 
 #EXTINF:-1 tvg-name="BTV News HD" tvg-logo="https://i.postimg.cc/bJN4scX1/btv-news.jpg" group-title="Bangla News",BTV News HD
-#EXTVLCOPT:http-referrer=https://www.btvlive.gov.bd/channel/BTV
-https://media.hmair.xyz/api/stream/eyJ1cmwiOiJodHRwczovL2xpdmUuYnR2bGl2ZS5nb3YuYmQvbGl2ZS9iZjczZDllMS1mODI2LTQzMDYtOTBkNC0xZDhlNGQ4NzRkYjEvQkQvZDk2ZWI3ZjQtODNjMi00NDcyLTk1OTctMzU2ODM5MGE4ZWJmL2luZGV4Lm0zdTgiLCJyZWZlcmVyIjoiaHR0cHM6Ly93d3cuYnR2bGl2ZS5nb3YuYmQvY2hhbm5lbC9CVFYiLCJjaGFubmVsIjoiTGl2ZSIsIm9yaWdpbiI6IiIsImhlYWRlcnMiOnsiY29va2llIjoidW5pcXVlSWQ9YmY3M2Q5ZTEtZjgyNi00MzA2LTkwZDQtMWQ4ZTRkODc0ZGIxOyBNYXgtQWdlPTg2NDAwOyBQYXRoPS87IEh0dHBPbmx5OyBTYW1lU2l0ZT1TdHJpY3QiLCJyZWZlcmVyIjoiaHR0cHM6Ly93d3cuYnR2bGl2ZS5nb3YuYmQvY2hhbm5lbC9CVFYifX0.m3u8
-#EXTINF:-1 tvg-name="SOMOY TV HD" tvg-logo="http://198.195.239.50/img/channels/SOMOY%20TV.png" group-title="Bangla News",SOMOY TV HD
+#EXTVLCOPT:http-origin=https://www.btvlive.gov.bd
+https://live.btvlive.gov.bd/live/3279ba08-3851-4cef-a578-ee165ec60a77/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
+
+#EXTINF:-1 tvg-name="SOMOY TV" tvg-logo="http://198.195.239.50/img/channels/SOMOY%20TV.png" group-title="Bangla News",SOMOY TV
 http://103.135.253.32:8080/SOMOY-TV/index.m3u8?hls
+#EXTINF:-1 tvg-name="JAMUNA TV" tvg-logo="http://198.195.239.50/img/channels/JAMUNA%20TV.png" group-title="Bangla News",JAMUNA TV
+http://103.135.253.32:8080/Jamuna-TV/index.m3u8?hls
+#EXTINF:-1 tvg-name="EKATTOR TV" tvg-logo="http://198.195.239.50/img/channels/EKATTOR_TV.png" group-title="Bangla News",EKATTOR TV
+http://103.135.253.32:8080/Ekattor-TV/index.m3u8?hls
+#EXTINF:-1 tvg-name="Channel 24" tvg-logo="http://198.195.239.50/img/channels/CHANNEL%2024.png" group-title="Bangla News",Channel 24
+http://103.135.253.32:8080/Channel-24/index.m3u8?
 #EXTINF:-1 tvg-name="Star News" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/45/Star_News_Bangladesh.png" group-title="Bangla News",Star News
 http://103.135.253.32:8080/Star-News/index.m3u8?hls
-#EXTINF:-1 tvg-name="DBC.NEWS.HD" tvg-logo="http://198.195.239.50/img/channels/DBC%20NEWS.png" group-title="Bangla News",DBC.NEWS.HD
-http://103.135.253.32:8080/DBC-NEWS/index.m3u8?hls
-#EXTINF:-1 tvg-name="EAKHON.TV.HD" tvg-logo="http://198.195.239.50/img/channels/images.png" group-title="Bangla News",EAKHON.TV.HD
-http://198.195.239.50:8095/EAKHON.TV.HD/index.m3u8
-#EXTINF:-1 tvg-name="EKATTOR.TV.HD" tvg-logo="http://198.195.239.50/img/channels/EKATTOR_TV.png" group-title="Bangla News",EKATTOR.TV.HD
-http://198.195.239.50:8095/EKATTOR.TV.HD/index.m3u8
-#EXTINF:-1 tvg-name="JAMUNA.TV" tvg-logo="http://198.195.239.50/img/channels/JAMUNA%20TV.png" group-title="Bangla News",JAMUNA.TV
-http://198.195.239.50:8095/JAMUNA.TV/index.m3u8
-#EXTINF:-1 tvg-name="INDEPENDENT.TV" tvg-logo="http://198.195.239.50/img/channels/INDEPENDENT%20TV.png" group-title="Bangla News",INDEPENDENT.TV
+#EXTINF:-1 tvg-name="INDEPENDENT TV" tvg-logo="http://198.195.239.50/img/channels/INDEPENDENT%20TV.png" group-title="Bangla News",INDEPENDENT TV
 http://198.195.239.50:8095/INDEPENDENT.TV/index.m3u8
+#EXTINF:-1 tvg-name="DBC NEWS" tvg-logo="http://198.195.239.50/img/channels/DBC%20NEWS.png" group-title="Bangla News",DBC NEWS 
+http://103.135.253.32:8080/DBC-NEWS/index.m3u8?hls
+#EXTINF:-1 tvg-name="EAKHON TV" tvg-logo="http://198.195.239.50/img/channels/images.png" group-title="Bangla News",EAKHON TV
+http://103.135.253.32:8080/Ekhon-TV/index.m3u8
+
+
+
 #EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://i.postimg.cc/SsLsPgcP/channel-9.png" group-title="Bangla News",Channel 1
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/playlist.m3u8
+#http://103.135.253.32:8080/CHANNEL-1/index.m3u8?hls
 #https://drk6xq0vhn.gpcdn.net/live/channel_1_hd_abr/index.m3u8
-#EXTINF:-1 tvg-name="CHANNEL.24.HD" tvg-logo="http://198.195.239.50/img/channels/CHANNEL%2024.png" group-title="Bangla News",CHANNEL.24.HD
-http://198.195.239.50:8095/CHANNEL.24.HD/index.m3u8
 #EXTINF:-1 tvg-name="ATN.NEWS.HD" tvg-logo="http://198.195.239.50/img/channels/ATN%20NEWS.png" group-title="Bangla News",ATN.NEWS.HD
-http://198.195.239.50:8095/ATN.NEWS.HD/index.m3u8
+http://103.135.253.32:8080/ATN-NEWS/index.m3u8?hls
 #EXTINF:-1 tvg-name="NEWS.24" tvg-logo="http://198.195.239.50/img/channels/images__10_.jpg" group-title="Bangla News",NEWS.24 BD
 http://103.135.253.32:8080/News-24/index.m3u8
 #https://ireentv.pages.dev/News_24_HD_Server_1.m3u8
