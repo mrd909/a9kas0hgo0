@@ -6,12 +6,12 @@
 http://103.135.253.32:8080/BTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="BTV" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png" group-title="Bangla",BTV
 #EXTVLCOPT:http-origin=https://www.btvlive.gov.bd
-https://live.btvlive.gov.bd/live/61a7b67c-abf0-4066-8eb6-3f8fd169cd94/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8
+https://live.btvlive.gov.bd/live/3279ba08-3851-4cef-a578-ee165ec60a77/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8
 #EXTINF:-1 tvg-name="BTV Chittagong" tvg-logo="https://i.postimg.cc/rytpmQfg/btvctg1.jpg" group-title="Bangla",BTV Chittagong
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 #EXTINF:-1 tvg-name="BTV Chittagong HD" tvg-logo="https://i.postimg.cc/T1YsRHFj/BTVctg.webp" group-title="Bangla",BTV Chittagong HD
 #EXTVLCOPT:http-origin=https://www.btvlive.gov.bd
-https://live.btvlive.gov.bd/live/61a7b67c-abf0-4066-8eb6-3f8fd169cd94/BD/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
+https://live.btvlive.gov.bd/live/3279ba08-3851-4cef-a578-ee165ec60a77/BD/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
 #EXTINF:-1 tvg-name="Ekushey TV" tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="Bangla",Ekushey TV
 https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8
 #https://tvsen5.aynaott.com/SyQuXz8sC3TB/tracks-v1a1/mono.ts.m3u8
@@ -74,14 +74,14 @@ http://27.124.71.27/Sun_Bangla/index.m3u8
 
 #EXTINF:-1 tvg-name="Songsod TV" tvg-logo="https://i.postimg.cc/gkqbwMrD/songsod.png" group-title="Bangla",Songsod TV
 #EXTVLCOPT:http-origin=https://www.btvlive.gov.bd
-https://live.btvlive.gov.bd/live/61a7b67c-abf0-4066-8eb6-3f8fd169cd94/BD/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
+https://live.btvlive.gov.bd/live/3279ba08-3851-4cef-a578-ee165ec60a77/BD/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
 
 
 ==================== Bangla News ====================
 
 #EXTINF:-1 tvg-name="BTV News HD" tvg-logo="https://i.postimg.cc/bJN4scX1/btv-news.jpg" group-title="Bangla News",BTV News HD
 #EXTVLCOPT:http-origin=https://www.btvlive.gov.bd
-https://live.btvlive.gov.bd/live/61a7b67c-abf0-4066-8eb6-3f8fd169cd94/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
+https://live.btvlive.gov.bd/live/3279ba08-3851-4cef-a578-ee165ec60a77/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
 
 #EXTINF:-1 tvg-name="SOMOY TV" tvg-logo="http://198.195.239.50/img/channels/SOMOY%20TV.png" group-title="Bangla News",SOMOY TV
 http://103.135.253.32:8080/SOMOY-TV/index.m3u8?hls
